@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/welcome-to-summoners/","tags":["gardenEntry"]}
 ---
 
-# Welcome to the Summoners Index.
- 
+# Welcome to the Summoners Index
+ ![Palonia v1.3.jpg](/img/user/Palonia%20v1.3.jpg)
 ### Crystals & Magic
 [[Crystals & Magic/Crystal History & Info\|Crystal History & Info]]
-[[Crystals & Magic/Crystal History & Info\|Crystal History & Info]]
+[[Crystals & Magic/Crystal Types\|Crystal Types]]
 [[Crystals & Magic/Magic History & Info\|Magic History & Info]]
 [[Crystals & Magic/Magic Types\|Magic Types]]
 
@@ -25,6 +25,7 @@
 [[Deities, Myths & Lore/Nutuna\|Nutuna]]
 [[Deities, Myths & Lore/Nythar\|Nythar]]
 [[Deities, Myths & Lore/Rytar\|Rytar]]
+[[Deities, Myths & Lore/Sotar\|Sotar]]
 [[Deities, Myths & Lore/Uril\|Uril]]
 [[Deities, Myths & Lore/Valentina\|Valentina]]
 [[Deities, Myths & Lore/Vearis\|Vearis]]

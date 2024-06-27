@@ -3,7 +3,7 @@
 ---
 
 # Welcome to the Summoners Index
- ![Palonia v1.3.jpg](/img/user/Palonia%20v1.3.jpg)
+ ![Palonia v1.3.jpg](/img/user/Images/Palonia%20v1.3.jpg)
 ### Crystals & Magic
 [[Crystals & Magic/Crystal History & Info\|Crystal History & Info]]
 [[Crystals & Magic/Crystal Types\|Crystal Types]]

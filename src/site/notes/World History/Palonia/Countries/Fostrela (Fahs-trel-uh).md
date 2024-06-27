@@ -8,7 +8,7 @@ Fostrela is one of the countries that was once a part of the lands known as [[Wo
 ****
 
 ## Vixgate:
-![Vixgate w.legend.jpg](/img/user/Vixgate%20w.legend.jpg)
+![Vixgate w.legend.jpg](/img/user/Images/Vixgate%20w.legend.jpg)
 The capital of Fostrela. Home to the [[Nightvale/Nightvale Academy\|Nightvale Academy]].
 
 Cold and rainy climate. The most diverse city of Fostrela, and the world (but who's counting). Holds the biggest Festival of Tau every year, with the most active night markets during the rest of the year.

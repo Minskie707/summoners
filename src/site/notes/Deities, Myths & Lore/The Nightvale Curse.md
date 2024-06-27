@@ -12,3 +12,7 @@ In the morning the news had reached their kingdom, the neighboring kingdom’s p
 
 While the archmage’s punishment was set, somewhere dark and cold the neighboring kingdom found its new place. Upon waking the people within found not only a new home for themselves but dark tendril-like vines burrowed into their skin, turning their veins dark around the vines. Their eyes changing color, along with their hair and skin tones. Everything about them became devoid of color almost overnight, few holding onto a slight pigment. It was such a drastic difference, that many panicked and fled from the building seemingly disintegrating upon stepping outside the walls of the palace grounds. Slowly, they became accustomed, calling what had happened to them, The Nightvale Curse.
 
+
+The fable speaks of how the man remained loyal to **REDACTED**, and how he continued to serve her. He had become almost obsessed with her, making attempt after attempt to hear from her again. When he had finally fallen to an illness that swept the island, the other occupants found his hovel in ruin. The floor was absolutely littered with parchment and drawings. What had appeared to once be beautiful drawings and paintings of a woman were burned, or torn at the face. There had to be hundreds of drawings and paintings done by the former archmage, all of what looked like the same woman. As if by a stroke of luck, the other islanders found *one* intact portrait. 
+
+![86460f8e65091f93f002f54ab5a533ca.jpg](/img/user/Images/86460f8e65091f93f002f54ab5a533ca.jpg) 

@@ -4,6 +4,34 @@
 
 # Welcome to the Summoners Index
  ![Palonia v1.3.jpg](/img/user/Images/Palonia%20v1.3.jpg)
+### World History
+[[World History/The Night of Tau\|The Night of Tau]]
+[[World History/Keatara\|Keatara]]
+[[World History/Palonia\|Palonia]]
+##### Countries
+[[World History/Palonia/Countries/Abus (Ah-boos)\|Abus (Ah-boos)]]
+[[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]]
+[[World History/Palonia/Countries/Fostrela (Fahs-trel-uh)\|Fostrela (Fahs-trel-uh)]]
+[[World History/Palonia/Countries/The Dry Basin\|The Dry Basin]]
+[[World History/Palonia/Countries/The Shattered Isles\|The Shattered Isles]]
+
+### Nightvale
+[[Nightvale/Nightvale Academy\|Nightvale Academy]]
+[[Nightvale/Summoner's Codex\|Summoner's Codex]]
+[[Nightvale/The Nightvale Council\|The Nightvale Council]]
+[[Nightvale/Challenges\|Challenges]]
+[[Nightvale/Legacies\|Legacies]]
+[[Nightvale/Levels\|Levels]]
+[[Nightvale/Reputation\|Reputation]]
+[[Nightvale/The Archives\|The Archives]]
+##### Summoning
+[[Nightvale/Summoning/Summoning Specialties\|Summoning Specialties]]
+[[Nightvale/Summoning/Specialties/Collector\|Collector]]
+[[Nightvale/Summoning/Specialties/Hunter\|Hunter]]
+[[Nightvale/Summoning/Specialties/Phalanx\|Phalanx]]
+[[Nightvale/Summoning/Specialties/Saor\|Saor]]
+[[Nightvale/Summoning/Specialties/Warg\|Warg]]
+
 ### Crystals & Magic
 [[Crystals & Magic/Crystal History & Info\|Crystal History & Info]]
 [[Crystals & Magic/Crystal Types\|Crystal Types]]
@@ -44,33 +72,5 @@
 [[Important People & Noble Families/The Silvestre Royal Family\|The Silvestre Royal Family]]
 [[Important People & Noble Families/Karken Spiros\|Karken Spiros]]
 
-### Nightvale
-[[Nightvale/Nightvale Academy\|Nightvale Academy]]
-[[Nightvale/Summoner's Codex\|Summoner's Codex]]
-[[Nightvale/The Nightvale Council\|The Nightvale Council]]
-[[Nightvale/Challenges\|Challenges]]
-[[Nightvale/Legacies\|Legacies]]
-[[Nightvale/Levels\|Levels]]
-[[Nightvale/Reputation\|Reputation]]
-[[Nightvale/The Archives\|The Archives]]
-##### Summoning
-[[Nightvale/Summoning/Summoning Specialties\|Summoning Specialties]]
-[[Nightvale/Summoning/Specialties/Collector\|Collector]]
-[[Nightvale/Summoning/Specialties/Hunter\|Hunter]]
-[[Nightvale/Summoning/Specialties/Phalanx\|Phalanx]]
-[[Nightvale/Summoning/Specialties/Saor\|Saor]]
-[[Nightvale/Summoning/Specialties/Warg\|Warg]]
-
 ### Politics, Cultural Things & Other Info
 [[Politics, Cultural tings & Other Info/Orphanages & Orphans\|Orphanages & Orphans]]
-
-### World History
-[[World History/The Night of Tau\|The Night of Tau]]
-[[World History/Keatara\|Keatara]]
-[[World History/Palonia\|Palonia]]
-##### Countries
-[[World History/Palonia/Countries/Abus (Ah-boos)\|Abus (Ah-boos)]]
-[[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]]
-[[World History/Palonia/Countries/Fostrela (Fahs-trel-uh)\|Fostrela (Fahs-trel-uh)]]
-[[World History/Palonia/Countries/The Dry Basin\|The Dry Basin]]
-[[World History/Palonia/Countries/The Shattered Isles\|The Shattered Isles]]

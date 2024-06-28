@@ -2,3 +2,8 @@
 {"dg-publish":true,"permalink":"/nightvale/the-archives/"}
 ---
 
+The Archives, essentially a glorified library. Although books tend to be published in limited quantities, the Archives houses at least one copy of any book published more than once. In some cases, it houses the only remaining copy of some texts. Books aren't the only thing the Archives house however, [[Deities, Myths & Lore/Aster\|Aster]] calls the bookshelves of the grand room his home.
+
+While most of the deities keep to themselves, Aster is commonly found alongside mortals. Working as a glorified scribe, he spends almost all of his time within the Archives, rarely leaving. For many students, they use him as the library catalog rather than treating him as the god he is, he doesn't seem to care though as he's normally too busy reading to fully pay attention.
+
+Unlike normal libraries however, the Archives has some rather drastic safety measures in place to protect the precious knowledge within. A grand clock hanging from the center of the Archives works as a timer to students, at midnight three bells will sound. The bells are to warn any within the Archives of the time. Every night as the midnight bells sound the runes lining the Archive walls and doors begin to glow, slowly activating the protective magic of the Archives. 

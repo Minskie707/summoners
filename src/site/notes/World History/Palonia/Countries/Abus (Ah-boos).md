@@ -33,5 +33,5 @@ Small Island town to the eastern side of the country's mainland. Mid temp and cl
 
 ## Panta:
 
-Dwarven Island town to the northeast of the mainland of Abus. Freezing and icy climate. Very hostile towards outsiders and have very strict customs and rules for visitors.
+Dwarven Island town to the northeast of the mainland of Abus. Freezing and icy climate. Very hostile towards outsiders and have very strict customs and rules for visitors. Home to the temple of [[Deities, Myths & Lore/Nutuna\|Nutuna]].
 

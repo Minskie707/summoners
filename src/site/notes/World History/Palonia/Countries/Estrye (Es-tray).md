@@ -21,7 +21,7 @@ The second largest city in Estrye. Sits on the northwestern part of Estrye. Arcs
 
 ## Vilco:
 
-The Island City of Estrye. Technically the closest to the capital. A short boat ride through the mangrove wood takes you straight to the Queen’s Road. Vilco has a humid, mid-temperature climate.
+The Island City of Estrye. The city is home to [[Deities, Myths & Lore/Velo\|Velo]] who lives in his temple at the city center. Locals worshiping him and commonly leaving offerings for him at the steps of the temple. Technically the closest to the capital. A short boat ride through the mangrove wood takes you straight to the Queen’s Road. Vilco has a humid, mid-temperature climate.
 
   
 

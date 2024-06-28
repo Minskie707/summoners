@@ -10,3 +10,5 @@ Where most orphans tend to not have last names, the orphans of [[World History/P
 [[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]]: Vine
 [[World History/Palonia/Countries/The Shattered Isles\|The Shattered Isles]]: Storm
 [[World History/Palonia/Countries/The Dry Basin\|The Dry Basin]]: Sand
+
+Although orphans might be located everywhere, there aren't orphanages in every town. Every capital houses at least one orphanage. 

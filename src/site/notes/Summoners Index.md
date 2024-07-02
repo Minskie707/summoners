@@ -4,10 +4,12 @@
 
 # Welcome to the Summoners Index
  ![Palonia v1.3.jpg](/img/user/Images/Palonia%20v1.3.jpg)
+(Consider the information listed here as "in world". In other words, how everything is written is from the view your character would see/learn of it in world. Like taking a public history class.)
 ### World History
 [[World History/The Night of Tau\|The Night of Tau]]
 [[World History/Keatara\|Keatara]]
 [[World History/Palonia\|Palonia]]
+
 ##### Countries
 [[World History/Palonia/Countries/Abus (Ah-boos)\|Abus (Ah-boos)]]
 [[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]]

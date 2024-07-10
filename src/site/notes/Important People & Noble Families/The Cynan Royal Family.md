@@ -5,8 +5,6 @@
 
 The Cynan royal family, a prestigious and strong house within [[World History/Palonia\|Palonia]]. The Cynan name has been known as the ruling name in [[World History/Palonia/Countries/Fostrela (Fahs-trel-uh)\|Fostrela (Fahs-trel-uh)]] since [[World History/The Night of Tau\|The Night of Tau]], having branched from the original royal name of Aurelian. The Cynan family is all about image, they are always shown in public as perfect, never a hair out of place. Vixgate is the capital of Fostrela, and subsequently the home to the Cynan royal family. Statistically having a human lineage, the current king is a human, however his queen is a high elf. Despite this change in lineage, the kingdom will fall to Balor’s only son and heir, Alden. The Cynan family has also recently joined the prestigious grouping of a Summoner household. Further solidifying their name into history. The families youngest, Ophelia is to be entering the Academy along side Kwyn at the start of the next term.
 
-  
-
 Members of the Cynan family are often known to flash their name as a “get out of jail free” card. The family holds their own blood higher than any deity, and history has shown that when things involve members of their family they don't abandon one another.
 
 ### Balor Cynan:

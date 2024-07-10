@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/world-history/palonia/"}
 ---
 
-Palonia is a world full of diverse and intense magic. Magic that wasn’t always there. To the knowledge of mortals, the magic that scatters the lands came from [[World History/The Night of Tau\|The Night of Tau]] eons ago. The event is celebrated every year during the Summer Solstice, it’s said that [[World History/The Night of Tau\|The Night of Tau]] was the birth of the gods.
+Palonia is a world full of diverse and intense magic. Magic that wasn’t always there. To the knowledge of mortals, the magic that scatters the lands came from [[World History/The Night of Tau\|The Night of Tau]] thousands of years ago. The event is celebrated every year during the Summer Solstice, it’s said that [[World History/The Night of Tau\|The Night of Tau]] was the birth of the gods.
 
 Palonia is the name of the world, this planet if you will. Within Palonia are different countries, each on their own continent. These countries are as follows:
 

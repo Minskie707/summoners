@@ -11,7 +11,7 @@ The Summoner’s Codex is in its simplest form, a set of rules and suggestions. 
 - **Non-Lethal Intent**: It is prohibited to harm another party member with the intent to kill.
 - **Respect for Rest**: Attempting to kill someone in their sleep is strictly forbidden.
 - **Settle Matters in Combat**: Personal matters should be resolved on the combat mat in the pit. There will be no bloodshed in the halls.
-- **No Exemptions**: No one, not even a legacy, is exempt from punishment.
+- **No Exemptions**: No one, not even one of the [[Nightvale/Legacies\|Legacies]], is exempt from punishment.
 
 ---
 

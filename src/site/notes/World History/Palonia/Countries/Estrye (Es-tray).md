@@ -3,7 +3,7 @@
 ---
 
 
-Estrye is a mountainous jungle. The capital sits on a peninsula, protected on all sides by water and high mountains. To many not native to Estrye, it’s known as a deadly oasis. The jungles are full of dangerous creatures. Most of Estrye’s cities and towns are accessible by road, however, a few are only accessible by boat. Midsummer is highly celebrated throughout the whole country, their maypoles are kept in peak condition and have never moved from their original posts.
+Estrye is a mountainous jungle. The capital sits on a peninsula, protected on all sides by water and high mountains. To many not native to Estrye, it’s known as a deadly oasis. The jungles are full of dangerous creatures. Most of Estrye’s cities and towns are accessible by road, however, a few are only accessible by boat. Midsummer is highly celebrated throughout the whole country, their maypoles are kept in peak condition and have never moved from their original posts. Estrye is ruled by [[Important People & Noble Families/The Citrela Royal Family\|The Citrela Royal Family]]
 
   
 

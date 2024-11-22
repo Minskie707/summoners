@@ -64,6 +64,7 @@
 [[Deities, Myths & Lore/The Nightvale Curse\|The Nightvale Curse]]
 [[Deities, Myths & Lore/War of Faiths\|War of Faiths]]
 [[Deities, Myths & Lore/The Moirai\|The Moirai]]
+[[Deities, Myths & Lore/The Curse of Perception\|The Curse of Perception]]
 
 ### Events & Festivals
 [[Events & Festivals/Calendar\|Calendar]]
@@ -73,8 +74,12 @@
 [[Important People & Noble Families/The Cynan Royal Family\|The Cynan Royal Family]]
 [[Important People & Noble Families/The Ilea Family\|The Ilea Family]]
 [[Important People & Noble Families/The Silvestre Royal Family\|The Silvestre Royal Family]]
+[[Important People & Noble Families/The Citrela Royal Family\|The Citrela Royal Family]]
 [[Important People & Noble Families/Karken Spiros\|Karken Spiros]]
 
 ### Politics, Cultural Things & Other Info
 [[Politics, Cultural tings & Other Info/Orphanages & Orphans\|Orphanages & Orphans]]
 [[Politics, Cultural tings & Other Info/Common Information\|Common Information]]
+[[Politics, Cultural tings & Other Info/Ether\|Ether]]
+[[Politics, Cultural tings & Other Info/Etherlings\|Etherlings]]
+[[Politics, Cultural tings & Other Info/Liquid Starlight\|Liquid Starlight]]

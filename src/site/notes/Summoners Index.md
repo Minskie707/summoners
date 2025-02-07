@@ -60,7 +60,7 @@
 [[Deities, Myths & Lore/Valentina\|Valentina]]
 [[Deities, Myths & Lore/Vearis\|Vearis]]
 [[Deities, Myths & Lore/Velo\|Velo]]
-[[Deities, Myths & Lore/Artifacts\|Artifacts]]
+[[Deities, Myths & Lore/Relics\|Relics]]
 [[Deities, Myths & Lore/The Nightvale Curse\|The Nightvale Curse]]
 [[Deities, Myths & Lore/War of Faiths\|War of Faiths]]
 [[Deities, Myths & Lore/The Moirai\|The Moirai]]

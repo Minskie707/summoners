@@ -30,4 +30,4 @@ For Seris, the curse was a torment of isolation. Though Kaelith’s love remaine
 
 Kaelith, burdened by guilt and grief, turned his focus to his kingdom. But even as he built a legacy of peace and prosperity, the memory of Seris lingered, a bittersweet reminder of what he had lost.
 
-**REDACTED'S** curse, however, did not end with Seris. Its magic endured, twisting through the ages. Those who invoked **REDACTED'S** name in desperation or rejected the affections of the powerful sometimes found themselves afflicted, a reminder that the gods, for all their might, could never compel true love.
+**REDACTED'S** curse, however, did not end with Seris. Its magic endured, twisting through the ages. Those who invoked **REDACTED'S** name in desperation or rejected the affections of the powerful were said to find themselves afflicted, a reminder that the gods, for all their might, could never compel true love.

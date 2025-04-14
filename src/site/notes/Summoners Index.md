@@ -19,7 +19,6 @@
 
 ### Nightvale
 [[Nightvale/Nightvale Academy\|Nightvale Academy]]
-[[Nightvale/Summoner's Codex\|Summoner's Codex]]
 [[Nightvale/The Nightvale Council\|The Nightvale Council]]
 [[Nightvale/Challenges\|Challenges]]
 [[Nightvale/Legacies\|Legacies]]

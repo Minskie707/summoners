@@ -3,28 +3,65 @@
 ---
 
 
-The Silvestre royal family is a strong family within the north of [[World History/Palonia\|Palonia]]. Having branched from an old royal line, they’re true rulers to some. Ruling the lands of [[World History/Palonia/Countries/Abus (Ah-boos)\|Abus (Ah-boos)]] from the capital of Stextin. Their current name refers to a type of emerald found within the mountains of Abus, a rare gemstone only within their country. The family came to rule through somewhat of an election long ago. Despite what others might hear about them in other countries, the Silvestre family is known for being quite generous and overall very welcoming within Abus. One of the biggest lies told about the family is about their eldest daughter, Sira. In many other countries, it’s believed that Sira is not Onda’s child and is only Breixo’s, born to a woman who is not his wife. (which is frowned upon in Abus) While there is a small truth in this, Sira is neither’s child, she was adopted. Although Sira is the eldest by technicality, she has no legitimate claim or family tie to the throne of Stextin. Calisto is the blood-born heir to the throne.
+## 🜂 **The Silvestre Royal Family of Abus** 🜂  
+_High Lords of the North, Bearers of the Emerald Flame_
 
+In the frost-bitten reaches of northern Palonia lies the mountain realm of **Abus**, a kingdom carved from stone and pride, ruled by the ancient and revered **House Silvestre**. Though they hail from a branch of a long-forgotten royal line, the Silvestres have more than proven their claim through strength, wisdom, and a bond with their people as enduring as the peaks that surround them.
 
-### King Breixo Silvestre: The Ice King
+Their dominion flows from the capital city of **Stextin**, a jewel nestled in the icy heights. Their name—**Silvestre**—is taken from the _silvanite emerald_, a rare and radiant gemstone found only within the caverns of Abus, prized for its shifting green hues and said to pulse with latent magic.
 
-King Breixo Silvestre, a large Frostborn Goliath with deep ties to an ancient bloodline too old for the history books. While Breixo can be cold and sharp like ice, he isn't without mercy, while the public would never dare say it to him his family often refers to him as the gentle giant. Ever so patient and passionate with his words, his voice has a booming quality to it, a voice that truly shakes the halls.
+Unlike many royal houses, the Silvestre ascension came not by conquest nor bloodright, but through a storied election in ages past. The people of Abus—pragmatic and proud—chose them as sovereigns, a tradition long abandoned in most other lands. And while foreign rumors often paint the Silvestres in tones of secrecy or scandal, within their own borders they are regarded with loyalty and love.
 
-Despite being a kind king, he does not take kindly to insults towards him or his family, and his wrath knows no bounds when pushed past its limits. 
+Yet even the highest peaks cast long shadows. Among the nobility of Palonia, whispers abound—most notably regarding **Princess Sira**, the family’s eldest by age, yet not by blood. Tales spread beyond Abus claim she is the product of King Breixo’s dalliance with another, a scandalous tale untrue. In truth, Sira is adopted, brought into the royal fold as a child. While she bears no claim to the throne, she bears the name Silvestre with honor and pride.
 
-### Queen Onda Silvestre: The Silver Dragon
+The true heir, by right of blood, is **Princess Calisto**, daughter of Breixo and Onda—an icy flame forged in ambition, already set upon a path that may change the course of history.
 
-Queen Onda Silvestre, cool and calculated, she is a quiet shadow to Breixo. While some might expect the Ice King to be the cold one, it's quite the opposite, Onda holds a icy and cold stare, ever so observant and calculating. To outsiders, Onda seems rather standoffish, however to her people she is known to be rather caring. Despite her cold attitude, she is rather adapt at many arcane talents, she alone devised the plans for the forges used within Abus, building safer and stronger forges for her people to continue their work in safety.
+Though not the most widespread in influence, the Silvestres remain a force unto themselves: **a family of frost and fire, heart and steel**, standing resolute beneath the snowcapped heavens of their beloved homeland.
 
-Often times the Queen is accompanied by her handmaidens, as well as her daughters from time to time. On the rare occasions where she is seen with King Breixo, the public often cannot stop gossiping for days on end.
+### 🜁 **King Breixo Silvestre, the Ice King**
 
-### Princess Sira Silvestre:
+**High Sovereign of Abus, Warden of the Mountain Realms**
 
-Princess Sira Silvestre, the oldest of the Silvestre children. Currently Sira is seventeen and studying at the [[Nightvale/Nightvale Academy\|Nightvale Academy]] as a Mizar. The king and queen adopted Sira on her sixth birthday during their yearly visit to the orphanage in Stextin. When Sira was introduced to the people of Abus, many were confused, but who were they to judge their king and queen? Since the day she was adopted, Sira has proven to be a true member to the royal family. Never failing to impress the king and queen with her intelligence. Sira is quite beautiful as well, the people often speak of a love for her soft green eyes and her tanned skin.
+A towering figure both in presence and legacy, **King Breixo Silvestre** is a Frostborn Goliath whose bloodline is whispered to predate even the first kings of Palonia. Beneath his formidable stature and glacier-carved features lies a heart of tempered iron—unyielding, yet just. Known among his kin as the “Gentle Giant,” Breixo wields his voice like a warhorn and his judgment like a smith’s hammer: heavy, deliberate, and final.
 
-### Princess Calisto Silvestre:
+Though beloved by his people for his wisdom and strength, he is not one to suffer insult lightly—**those who speak ill of his family often find the mountains less merciful than their king**. A sovereign of few words and deep thoughts, Breixo walks the line between mercy and might with masterful grace.
 
+---
 
-### Prince Leon Silvestre:
+### 🜄 **Queen Onda Silvestre, the Silver Dragon**
 
+**Architect of the Arcane, Ice-Wrought Mind of Abus**
 
+If Breixo is the mountain, **Queen Onda** is its shadow—silent, sharp, and ever-watching. Cold of gaze and calm of breath, Onda is a tactician without peer and a mistress of the arcane arts. Her stare can quiet a room, and her words—few as they are—carry the weight of stone. While foreign dignitaries may mistake her silence for distance, her people know her true warmth lies in action, not display.
+
+It was Onda who designed the **Celestial Forges of Abus**, revolutionizing the kingdom’s smithing with safer, stronger constructions. Rarely seen without her retinue of handmaidens or her daughters, her rare public appearances alongside the king inspire hushed awe—and wild rumor.
+
+---
+
+### 🜃 **Princess Sira Silvestre**
+
+**The Adopted Star, Heart of Stextin**
+
+Though not born of royal blood, **Princess Sira Silvestre** has captured the hearts of Abus like few ever could. Discovered in the orphanage of Stextin and adopted on her sixth name day, she was brought into the fold of the Silvestres not as a symbol, but as a daughter—beloved, chosen, and cherished.
+
+Now seventeen and enrolled at **Nightvale Academy** as a Mizar, Sira is known for her brilliance, warmth, and grace. Her green eyes and sun-kissed skin mark her as a child of distant origins, but her poise and presence declare her nobility unmistakably. Though she holds no claim to the throne, she holds something far rarer: **the love of the people, unearned but never questioned**.
+
+---
+
+### 🜂 **Princess Calisto Silvestre**
+
+**The Winter Heir, Daughter of Stone and Flame**
+
+**Calisto Silvestre**, daughter of Breixo and Onda, is a study in stillness and storm. At sixteen, she already commands a room with her presence—eyes like frozen seas, hair the color of fallen snow, and horns curling like obsidian crowns from her brow. Where others see beauty, she sees burden; where others praise her lineage, she forges her own purpose.
+
+Set to attend Nightvale in the coming year, Calisto's aspirations are whispered from the taverns to the temples: **she seeks to become the youngest Dragon Summoner in living memory**. Dragons are fierce, proud creatures—just like her—and it seems only fitting that one day, she may stand beside one as its equal.
+
+---
+
+### 🜄 **Prince Leon Silvestre**
+
+**The Shrouded Flame, Son of Frost and Fury**
+
+The youngest of the Silvestre line, **Prince Leon** is a contradiction in flesh: the pale blue skin of his Goliath heritage paired with the frame of one yet to grow into it. Fourteen years old and often found in quiet corners with ink-stained fingers and a furrowed brow, Leon is thoughtful, tempestuous, and endlessly observant.
+
+While he bears his father's features—the pale skin, the shaggy white hair—he also carries the weight of his insecurities. Smaller than his peers and quick to anger, Leon shuns the spotlight, his passions simmering beneath the surface like magma under ice. But make no mistake: **the boy who hides in shadows may one day blaze brighter than them all**.

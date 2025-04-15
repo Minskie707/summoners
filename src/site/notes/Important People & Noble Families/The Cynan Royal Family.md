@@ -3,26 +3,76 @@
 ---
 
 
-The Cynan royal family, a prestigious and strong house within [[World History/Palonia\|Palonia]]. The Cynan name has been known as the ruling name in [[World History/Palonia/Countries/Fostrela (Fahs-trel-uh)\|Fostrela (Fahs-trel-uh)]] since [[World History/The Night of Tau\|The Night of Tau]], having branched from the original royal name of Aurelian. The Cynan family is all about image, they are always shown in public as perfect, never a hair out of place. Vixgate is the capital of Fostrela, and subsequently the home to the Cynan royal family. Statistically having a human lineage, the current king is a human, however his queen is a high elf. Despite this change in lineage, the kingdom will fall to Balor’s only son and heir, Alden. The Cynan family has also recently joined the prestigious grouping of a Summoner household. Further solidifying their name into history. The families youngest, Ophelia is to be entering the Academy along side Kwyn at the start of the next term.
+### **The Cynan Royal Family**
 
-Members of the Cynan family are often known to flash their name as a “get out of jail free” card. The family holds their own blood higher than any deity, and history has shown that when things involve members of their family they don't abandon one another.
+From their ivory throne in Vixgate, the Cynan bloodline rules the kingdom of Fostrela with gilded precision and a blade just out of sight. Once a branch of the ancient Aurelian line, the Cynans rose to prominence on the Night of Tau, and have since become the face of Palonia’s perfection. No family is more polished in appearance—or more ruthless in private.
 
-### Balor Cynan:
+The Cynans thrive on power, image, and legacy. Their household, now formally recognized as a Summoner bloodline, is one of influence and expectation. To be born a Cynan is to be born into spectacle—every hair, every word, every misstep a matter of state. Among nobles and commoners alike, their name is often spoken like a ward or a weapon, wielded to command respect or escape consequence.
 
-King Balor Mansfeild Cynan, the first of his name and the current king of Fostrela. King Balor was born to King Barnabus and Queen Nicolette Cynan, first of their names. Being the youngest of two, Balor was never supposed to inherent the throne. However after his older brother, Runark lost his life, Balor was set to inherent the throne. When King Barnabus died and Balor took the throne, the first thing he did was call a meeting with Caipra. No one knows what happened at that meeting, however the people believe this is where the marriage of their two children had been arranged, despite the fact neither child breathed air yet. Though that's all simply rumor and speculation. As the King hadn’t even wed yet. The King is, to put it simply, disliked by his people. He was known to have a hot temper before wedding Calla, simple things were known to set him off. Many were afraid of him going mad before he finally got married. The people had been suspicious when their King brought back a bride from the far islands of Estrye, however when they saw how calm their King had become in her presence they warmed up to her. Balor is a fairly serious man, who married Calla, a fairly unique woman.
+Their motto is unwritten, but well-known: _“Blood Above All.”_
 
-### Calla Cynan:
+### **King Balor Mansfeild Cynan**
 
-Queen Calla Cynan, is inexperienced in nobility. She had been born to Minos and Leto Vasilius, merchants from Vilco. Named for her beauty, her full name is Callista. However she has always gone by Calla, even amongst the people of Fostrela she is known as Queen Calla. The Queen’s parents have never been seen and so no one knows who they are. Its said that the Queen has a strong distaste for the mention of her parents, or their company in Vilco ([[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]]). Despite this, Calla fits into the title of queen quite well. She has the beauty and kindness of a true queen, and although she was never “trained” in the ways of nobility she holds herself high. The people of Vixgate have a strong fondness towards their Queen, much less so to their King.
+There are kings born of prophecy, and there are kings born of aftermath. Balor Mansfeild Cynan, the first of his name, was never meant to rule—but the gods have never been sentimental about bloodlines. When his elder brother perished and the crown fell to him, Balor did not flinch. He stepped into legacy with clenched fists and a gaze that could cut through steel.
 
-### Alden Cynan:
+Fostrela’s Iron King is a figure carved from midnight: stern, unsmiling, and impossibly composed. Though once infamous for his temper—a wildfire waiting for wind—his fury has since been buried beneath layers of cold diplomacy and sharp restraint. Some say that temper burned out the moment he wed the strange beauty from Estrye. Others say it still smolders beneath his skin, tempered only by her presence.
 
-Prince Alden Cynan, the oldest of the Cynan children and the heir to the throne of Fostrela. Currently, he is the same age as Dras Ilea, the two have been close since childhood. Alden is engaged to Kwyn Ilea, an arranged marriage. Although many were concerned with the age difference, as Alden is twenty one and Kwyn is sixteen. The marriage itself will have to wait until Kwyn completes her studies at the Academy. The Prince is a favorite among the people of Fostrela. Despite his cold demeanor he's known to be fairly kind and caring, though he holds a temper like his father’s. He currently works as a general in the City Watch.
+Balor is a man who values legacy over love, dominion over desire. Yet, beneath the crown and iron-clad will lies a haunted silence. It is said his first act as king was to meet with Caipra Ilea in secret, days before either of their children drew breath. What was forged in that shadowed council is still unknown—but the consequences have rippled across two houses, and perhaps the fate of the realm.
 
-### Arrabella Cynan:
+He rules from Vixgate not as a man, but as a symbol—perfect posture, perfect silence, perfect control. And yet, in his stillness lies a terrible truth: even kings cannot bury the past. They simply build their empires over it.
 
-Princess Arrabella Cynan, the middle child to the Cynan family. She has the beauty of her mother and the attitude of her father. Although the people speak of her beauty, the words of her kindness are scarce, given she has very little. In many ways Arrabella is similar to her father. The Princess has always had a strong personality, and a hot head. She's commonly known for her abuse towards her servants and sister, Ophelia. Rumors say she's blessed by [[Deities, Myths & Lore/Iana\|Iana]] herself, gifted with the beauty and jealousy. Currently Arrabella is eighteen, with a rather public fondness for Dras Ilea.
+### **Queen Calla Cynan**
 
-### Ophelia Cynan:
+Not all queens are born beneath gilded ceilings. Some rise from silk-wrapped shadows, cloaked in whispers and strange winds. Calla Cynan—once Callista Vasilius, daughter of nameless merchants from the far isles of Estrye—is a queen whose presence rewrote the tides of a kingdom.
 
-Princess Ophelia Cynan, the gifted youngest to the Cynan family. A frail girl, Ophelia’s entry to the Academy was a shock to the people. Especially given that she is only fourteen, it was unexpected to see her name on the acceptance listings. Its been centuries since someone younger than sixteen was accepted to the [[Nightvale/Nightvale Academy\|Nightvale Academy]], and for it to be the first Cynan accepted as well. She certainly is making history with one simple letter. The name Ophelia has started to become very popular due to the Princess, the people see it as a lucky name. Ophelia, much like her sister and mother, is quite beautiful. With white hair like her mother, her flushed tone adds to her innocent look. Where Arrabella should be the highest on the bachelorette list, she would fall short in comparison to her sister Ophelia. That is of course once Ophelia turns of marriage age (sixteen) and completes her education at the academy.
+She arrived in Vixgate like moonlight cutting through stormclouds: calm, unnervingly graceful, and disarmingly beautiful. The court expected an outsider fumbling through etiquette; instead, they found a sovereign who wore her crown like it had always been hers. There is no record of her noble birth, no family banner, no letters of lineage. Only the name Vasilius—an echo from across the sea that she never speaks of, and a past she guards with iron gentleness.
+
+Yet Calla is no docile consort. Her serenity veils a quiet cunning. Her words are few, but chosen with precision. When she stands beside King Balor, the people forget his fury, drawn instead to the strange tranquility she commands. Where he is flint and thunder, she is the lull between lightning strikes.
+
+The nobility watch her with fascination. The people love her without question. And her enemies? They underestimate her.
+
+Calla Cynan is a queen wrapped in riddles, a mirror to a past no one dares uncover. But those who look too long into her eyes often find themselves wondering: was it truly Balor who calmed the storm—or did the storm simply choose to follow her?
+
+### **Prince Alden Cynan**
+
+They call him _the Crown of Stone_—a prince carved from silence and duty, raised beneath the shadow of a throne he never asked for but will never forsake. Prince Alden Cynan, heir to Fostrela, wears the Cynan name like armor—impeccable, untouchable, and heavy with expectation.
+
+At twenty-one, he already commands the City Watch, his orders followed with the same quiet reverence he offers his family. His gaze is steady, his words scarce, and his temper—when it rises—echoes the fury of his father, though tempered by his mother’s restraint.
+
+But behind the sculpted mask of nobility, Alden watches the world with haunted clarity. He has learned to bury his truths deep, where no vow or law can reach them. The arranged betrothal to Kwyn Ilea is another chain in a life defined by inheritance—but some whisper his heart belongs elsewhere, bound by loyalty or longing he dare not name. Even Dras Ilea, his closest friend and near-brother, has begun to suspect there are doors in Alden’s soul that remain closed to everyone.
+
+He carries the weight of a kingdom and the weight of his silence in equal measure. And though he may one day rule Fostrela, it is not the crown that defines him—it is the secrets he guards, and the sacrifice he never speaks aloud.
+
+### **Princess Arrabella Cynan**
+
+Not all roses are meant to be touched. Some bleed poison beneath their bloom.
+
+Princess Arrabella Cynan, second-born of Fostrela’s throne, walks the polished halls of Vixgate like a blade unsheathed. She was gifted her mother’s impossible beauty—bone structure sculpted like marble, eyes rimmed in frost—but there the similarities end. For where Queen Calla is moonlight, Arrabella is wildfire. Tempestuous. Proud. Sharp-tongued and unafraid to draw blood if it proves her point.
+
+She is the fire in King Balor’s blood reborn—yet more refined, more dangerous. The court whispers of tantrums and torment, of handmaidens dismissed in tears and younger sisters left in her wake like scattered petals. They call her “The Jeweled Viper” behind closed doors. But in the open? They bow.
+
+Because power, in Fostrela, often wears a beautiful face.
+
+Arrabella was born to rule, or at least believes so. Her temper is famed throughout the kingdom, and her affections? Rare and razor-edged. Her obsession with Dras Ilea is no secret—nor is her disdain for her younger sister’s quiet rise. Yet even her cruelty has a court of admirers, many of them entranced by her presence like moths to a flame they know will kill them.
+
+There are rumors—of a divine blessing from Iana, the goddess of beauty and jealousy. A cruel inheritance. Or perhaps simply a truth the bloodline won’t speak aloud.
+
+Princess Arrabella does not beg for love. She demands loyalty, inspires fear, and if she cannot have your heart—she’ll ensure no one else ever will.
+
+### **Princess Ophelia Cynan**
+
+Some stars do not wait to rise—they are born mid-fall, already burning.
+
+Princess Ophelia Cynan is the youngest jewel of the Cynan line, and perhaps its most unsettling. Pale as moonlight with snowdrop hair and a voice like still water, she is a vision of innocence—until one looks too long and begins to feel the weight of something deeper. Older. Stranger.
+
+At just fourteen, her acceptance into Nightvale Academy shattered centuries of precedent. The youngest entrant in living memory, and the first Cynan to be welcomed behind those veiled gates, Ophelia’s name now drips from the tongues of nobles and commoners alike. Her presence alone has stirred omens, changed betting lines, and made the name “Ophelia” a charm for newborns and hopeful mothers.
+
+But what they see—the delicate girl in silk and silver—is not the whole. Even her tutors speak of a rare stillness to her magic, like snow falling in a forest where no animals stir. And though she speaks softly, her words never miss. It is said she dreams in languages no one has spoken in a thousand years. That mirrors cloud when she passes. That sometimes, she sings to herself—and the air around her tightens, like it’s listening.
+
+She walks the halls of Nightvale beside **Kwyn Ilea**, her future sister-in-law, not as a shadow—but as a mirrored flame. Where Kwyn's power is raw and bright, Ophelia's is quiet and glacial, but no less potent. The two form a strange axis in the academy—one forged by bloodlines and future titles, the other by an ineffable bond that no one, not even they, can fully name. Some say Kwyn tempers her. Others say Ophelia is the reason Kwyn hasn’t burned away.
+
+Ophelia bears her sister’s envy, her father’s scrutiny, and the weight of a crown she may never want—but she moves through it all like mist, untouched. There are whispers that she was not born, but _summoned._ That she is Fostrela’s last phoenix. Or perhaps its first ghost.
+
+And now, as two destined girls—**a princess and a prodigy**—step together into the academy's secrets, one question blooms in every corner of the realm:
+
+Are they Fostrela’s salvation—or its reckoning?

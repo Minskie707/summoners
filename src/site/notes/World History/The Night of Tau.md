@@ -2,11 +2,40 @@
 {"dg-publish":true,"permalink":"/world-history/the-night-of-tau/"}
 ---
 
+**From the Archives of Elwin Biceran, High Archivist of Vixgate**  
+_Transcribed by Scribe Shael Beistina on the Night of Tau, Year of Petra 918 ALTN_
 
-“On this Summer Solstice, The Night of Tau, thousands of years before our time, a beautiful meteor shower rained down from the heavens above. The ground shook beneath your feet, and you could smell the sulfur and brimstone. However, you could also smell flowers, old books, the sea, and the pungent smell of dirt and metal. Waves of different scents and colors spread through the sky, streaks of light painting the sky. It almost looked as though the sky was crying tears of stars. When the sun peered over the horizon the silhouettes of 18 different figures could be accounted for worldwide, each climbing from a crater left by a meteor of a different scent and color. These figures slowly showed themselves as magnificent beings of pure color and magic. They could take the form of whatever, or whoever, they wanted to, similar to changelings in that way. The mortals who had never seen anything quite like it were cautious; some were curious; but all were terrified. These beings had seemingly come in peace but in doing so, they had destroyed cities, shattered islands, and killed thousands of people. Seeing the destruction and anguish they caused, the beings slowly helped to rebuild the lands around them, using their powers to assist where they could. After helping to rebuild what they had broken they gave the gift of magic to the lands around them. The mortals dubbed them as Gods, Deities, the all-powerful ones. Enjoying the attention they decided to give magic to mortals as well. Some magic was more desirable than others - however, all magic was powerful. But due to the nature of some of these new powers, gods were turned on and sent away, abandoned. The gods knew no way to return to the skies they fell from, and having been abandoned by the mortals they felt almost lost. Eventually those of the “undesirable power” were forgotten, and seemingly disappeared from the world. Over time mortals have tried to find them again, failing in their attempts. However, those who weren’t forgotten are still very much present today, you just have to know who -or what- to look for.” — Head Archivist Elwin Biceran, Year of Petra 918 ALTN
+> _“On the eve of the Summer Solstice, in an age long buried beneath millennia of dust and legend, the heavens wept fire. This night—forever etched in history as the Night of Tau—marked the first known contact between mortal-kind and the divine.”_
 
-— Transcribed on the Night of Tau celebration by Scribe Shael Beistina, Year of Petra 918 ALTN
+### 🜁 **The Night of Tau** 🜁  
+In the age before reckoning, when the world was yet untouched by divine will, a night unlike any other cleaved history in twain. The sky split open with fire as meteors fell—fiery lances from the heavens—scarring the earth and shaking the bones of the world.
 
-Thousands of years ago, an event known as the Night of Tau changed the world of [[World History/Palonia\|Palonia]] as the people had known it. Though not much was known about Palonia *before* the Night of Tau, it's widely known that the mortals prior did not worship deities. Most other information is that of rumors rather than fact (on the *before*).
+Where each star struck, there bloomed not only flame and smoke, but strange fragrances that stirred the soul: brine and blossoms, leather-bound tomes, scorched metal and loamy soil. The very air shimmered with color, and for a moment, the firmament wept tears of starlight.
 
-The Night of Tau brought the mortals Gods, magic, crystals, it completely changed their ecosystems. For a few too many unfortunate souls, it brought them death. In many texts it's said that the mortals blamed [[Deities, Myths & Lore/Calous\|Calous]] for this influx. However these weren't the only things the Night of Tau brought with it: it also brought the Academy, a wondrous structure. It appeared as if it had been carved out of a mountain; the intricate details, the gradients of stone, it was a marvelous building. On the Night of Tau the people of Vixgate not only had the sky of raining stars to worry about, but also had the cliff edge to worry about. While everyone seemed distracted by the stars, the Academy found itself on the once empty cliff edge. Upon inspection by the royal guard, Vixgate dubbed the school [[Nightvale/Nightvale Academy\|Nightvale Academy]], named after a children's tale as it seemed so mythical in the first place.
+When dawn kissed the battered land, **eighteen figures** stood where silence had fallen—each rising from a crater, radiant with otherworldly magic, steeped in scent and hue. Shifting and formless, they wore the faces of many, like changelings draped in the essence of eternity.
+
+The mortals, never having known gods, beheld these beings with awe, terror, and trembling reverence. Though peace lay in their intentions, devastation marked their coming: cities were turned to rubble, islands sank, and thousands perished in fire and quake.
+
+But sorrow softened their power. With hands of light and song, the celestial beings labored to mend what they had broken. And when the land was soothed, they bestowed a gift that would forever change the fate of mortalkind: **magic**.
+
+And so they were named—**Gods, Deities, the All-Powerful**—and temples rose to honor them. Yet not all gifts are embraced, and not all powers are pure. Some gods were feared, reviled for the nature of what they had given. Mortals turned on their saviors, casting them out into exile.
+
+Unable to return to the skies from whence they fell, the forsaken wandered the world, veiled in sorrow and forgotten by time. Of those once worshipped, only a few endure in memory—and perhaps, in shadow. It is said they yet linger, hidden among us, their true forms masked by clever guise.
+
+> **“Seek well, seeker of truths. The gods have not left us. Some simply no longer wish to be found.”**
+
+### 🜃 **Supplemental Account — The Birth of Nightvale Academy** 🜃
+– Scribe Beistina, Night of Tau, 918 ALTN:
+Though the era before the Night of Tau lies shrouded in fading scroll and whispered myth, one truth remains certain: **before that night, mortals knew no gods**. The coming of the celestial beings did more than alter the hearts of mortal kind—it **transformed the world** itself. Magic surged through the leylines. Crystals rose from the ground like teeth of power. The very ecosystems of Palonia reshaped to accommodate forces previously unknown.
+
+For many, this new age brought wonder. For others, it brought ruin.
+
+Ancient records—many singed by time or censorship—place **blame upon one called Calous**, though his role in the divine descent remains disputed. Yet amidst the fire that rained from the heavens, something else came to be: a structure of breathtaking grandeur, so finely wrought it could only have been carved by the hand of a god.
+
+As the people of **Vixgate** watched the sky split and stars fall, the earth too stirred. Upon a once-barren cliffside, a **fortress appeared**, silent and sudden. It bore no marks of construction. Its stone shimmered with iridescent veins, unknown to any mortal quarry or craftsman. The cliff that had stood empty at twilight now cradled a citadel humming with arcane life.
+
+**No hammer struck its walls. No hand placed its stones.**
+
+By order of the royal guard, and in awe of its mythical nature, the structure was named **Nightvale Academy**, after an old children’s tale whose origins are as mysterious as the fortress itself. Since that fateful night, Nightvale has become a beacon of magical scholarship—a place of learning, legend, and secrets as old as the gods themselves.
+
+To this day, its halls echo with forgotten truths. Its spires shimmer in moonlight like the shards of fallen stars. And its presence remains the greatest enigma of the Night of Tau—**the night the sky wept fire, and gods walked among us.**

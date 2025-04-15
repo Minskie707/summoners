@@ -3,11 +3,40 @@
 ---
 
 
-Nightvale Academy. The school that suddenly and magically showed up, headmistress and all. The school itself is beautiful, with strong gothic architecture matched by overgrown roots and vines seemingly chaining the building to the ground it sits on. To the untrained eye, one would say the person who built it was brilliant. However a skilled stonemason knew no being alive could've done this, the building looked carved out of a mountain; and with that level of detail, no living being could've made that with their hands. [[World History/Palonia/Countries/Fostrela (Fahs-trel-uh)#Vixgate\|Fostrela (Fahs-trel-uh)#Vixgate]] had accepted the sudden arrival of the school rather warmly on [[World History/The Night of Tau\|The Night of Tau]]. The Cynan Historic Library has written accounts of the night the school showed up, and every quote said the same “The school grew out of the ground”. All other public information about the school is also listed in the library, though not much is there. The school and the students have always seemed pleased with their lives and how their time was spent. Six [[Nightvale/Levels\|Levels]] of schooling are offered to the students, all of them starting at the first level, Procyon. The levels are known as the following, Procyon, Mizar, Polaris, Vega, Regulus, and finally Sirius. Then there's the grounds themselves, which also seemed rather alive in itself, some might even say the roots on the building would move. However not much else is known about the school or its staff, the headmistress being the most mysterious individual of them all. It’s rumored among the townspeople that the headmistress ( [[Important People & Noble Families/The Ilea Family#Caipra Ilea\|The Ilea Family#Caipra Ilea]] ) has a daughter engaged to the crown prince of Vixgate, apparently through some sort of deal for peace. The school has always been quite mysterious in how it operates and most people choose not to pry out of fear of retaliation from the headmistress. It’s said that long ago she used to rule Vixgate along with running the school, some might say she still does.
+### **✦ Nightvale Academy ✦**
 
+Nightvale Academy appeared without warning—an arcane marvel that rose from the earth on the [[World History/The Night of Tau\|The Night of Tau]], complete with its headmistress and faculty. Towering spires of gothic stonework claw toward the sky, bound to the land by ancient roots and ivy, as though the very earth refuses to release it. To the common eye, the craftsmanship appears masterful; yet to a seasoned stonemason, it is something else entirely—no mortal hands could have carved stone so precise, so flawless. It is as if the academy was hewn from the bones of the mountain itself.
 
-People now abide by the rules [[Nightvale/The Nightvale Council\|The Nightvale Council]] sets out, even [[Important People & Noble Families/The Cynan Royal Family\|The Cynan Royal Family]] and guard. Of course, the Academy has never proven itself an enemy to Vixgate, and because of this, it has been allowed to operate rather independently from the kingdom.
+The city of [[World History/Palonia/Countries/Fostrela (Fahs-trel-uh)\|Fostrela (Fahs-trel-uh)]], seat of the Vixgate Kingdom, received the academy’s arrival with strange acceptance. Records held in the Cynan Historic Library speak in unison of that night. Every account bears the same phrase: _"The school grew out of the ground."_ Beyond these entries, little is known. The academy remains shrouded in mystery—its halls silent, its students content, and its secrets well-guarded.
 
+Nightvale’s curriculum is structured across six ascending [[Nightvale/Levels\|Levels]] of arcane and scholarly development: **Procyon**, **Mizar**, **Polaris**, **Vega**, **Regulus**, and the final tier, **Sirius**. Each student begins their training at the Procyon level, regardless of background or prior skill.
 
-Once a year, the day after the Feast of the Moon and the first day of Nightal, the academy goes through the process of accepting new students. Prospective students are sent a letter based on the tests done on the blood samples sent in by the individual cities and kingdoms. These letters of acceptance get sent out about 2 months in advance. Since the blood drawings are done in early spring, there's just enough time to have all the tests done for the upcoming year. Students are expected to show up on the first day of Nightal, most arriving by airship, ship, or horse. Upon arrival, students are left to explore the city for the morning. Meeting at the Academy for their entry into the Summoning magics around midday. First-year students are prohibited from leaving campus during their first year at the school, this is for the students’ safety.
+The grounds themselves are rumored to be alive. Locals whisper that the vines upon the building shift when unobserved, that the academy listens, watches, and remembers. But the greatest mystery of all is the headmistress—**Caipra Ilea** of [[Important People & Noble Families/The Ilea Family\|The Ilea Family]]. It is said she once ruled Vixgate in an era long past, and some claim she still does, wielding her influence from the academy’s shadowed halls. Rumors persist that her daughter is betrothed to the Crown Prince of Vixgate, a union forged in secret to maintain peace between the Academy and the Crown.
 
+Most dare not question Nightvale’s affairs, for fear of the headmistress’s wrath. [[Nightvale/The Nightvale Council\|The Nightvale Council]]—an enigmatic governing body—now enacts laws observed even by [[Important People & Noble Families/The Cynan Royal Family\|The Cynan Royal Family]] and its guard. Though Nightvale has never acted in open hostility, its autonomy is unquestioned and uncontested.
+
+**✦ Admissions & Arrival ✦**
+
+Each year, on the day following the Feast of the Moon—the first of Nightal—Nightvale accepts a new class of students. Entry is determined by arcane testing of blood samples collected in early spring by cities and kingdoms across the realm. Those deemed worthy receive letters of acceptance two months prior to their arrival.
+
+Students journey to Nightvale by airship, river barge, or caravan, arriving on the dawn of Nightal. They are granted the morning to explore Fostrela’s city streets, but by midday, they must report to the Academy gates to undergo their first rite: initiation into Summoning magic.
+
+For their own protection, all first-year students are forbidden from leaving the grounds until their training advances.
+
+### ✦ Official Recruitment Letter from Nightvale Academy ✦
+
+**Sealed with the Sigil of the Ilea Family**
+
+_To the Chosen:_
+
+Your blood speaks what your tongue cannot.
+
+Following the ancient rites and under the gaze of the Moons, you have been selected to attend **Nightvale Academy**, where the arcane is not merely studied—it is summoned, bound, and reborn. Your presence has been requested by name. That alone should unsettle you.
+
+You are to arrive in the city of Vixgate no later than dawn on the First of Nightal. You will be granted the morning to gather your bearings and the last breath of familiarity. At midday, present yourself at the obsidian gates of Nightvale Academy for your induction.
+
+Should you choose to ignore this summons, know that few evade their calling twice.
+
+Signed,  
+**The Nightvale Council**  
+On behalf of **Headmistress Caipra Ilea**

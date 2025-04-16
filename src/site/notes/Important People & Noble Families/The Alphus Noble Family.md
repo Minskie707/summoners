@@ -7,9 +7,9 @@
 
 **Lords of Swiftstone, Pillars of the Dry Basin**
 
-In the unforgiving cradle of sand and stone known as the Dry Basin, where the winds whisper of forgotten crimes and lost kings, there stands a name carved not in blood, but in resolve: **Alphus**.
+In the unforgiving cradle of sand and stone known as [[World History/Palonia/Countries/The Dry Basin\|The Dry Basin]], where the winds whisper of forgotten crimes and lost kings, there stands a name carved not in blood, but in resolve: **Alphus**.
 
-The **Alphus Noble Family** did not inherit power through crown or conquest, but claimed it in the ashes of chaos. On the fabled _Night of Tau_, when the last of Keatara’s desert prisons was abandoned to ruin, it was the Alphus family who dared to remain. With will forged in necessity, they laid the first stones of civilization amid the lawless wastes, offering structure to the forsaken. From this foundation rose **Swiftstone**, their capital, and from the people's desperation, they earned their title.
+The **Alphus Noble Family** did not inherit power through crown or conquest, but claimed it in the ashes of chaos. On [[World History/The Night of Tau\|The Night of Tau]], when the last of Keatara’s desert prisons was abandoned to ruin, it was the Alphus family who dared to remain. With will forged in necessity, they laid the first stones of civilization amid the lawless wastes, offering structure to the forsaken. From this foundation rose **Swiftstone**, their capital, and from the people's desperation, they earned their title.
 
 But nobility earned is not always nobility preserved.
 

@@ -6,11 +6,11 @@
 ### 🜂 **The Silvestre Royal Family of Abus** 🜂  
 _High Lords of the North, Bearers of the Emerald Flame_
 
-In the frost-bitten reaches of northern Palonia lies the mountain realm of **Abus**, a kingdom carved from stone and pride, ruled by the ancient and revered **House Silvestre**. Though they hail from a branch of a long-forgotten royal line, the Silvestres have more than proven their claim through strength, wisdom, and a bond with their people as enduring as the peaks that surround them.
+In the frost-bitten reaches of northern [[World History/Palonia\|Palonia]] lies the mountain realm of [[World History/Palonia/Countries/Abus (Ah-boos)\|Abus (Ah-boos)]], a kingdom carved from stone and pride, ruled by the ancient and revered **House Silvestre**. Though they hail from a branch of a long-forgotten royal line, the Silvestres have more than proven their claim through strength, wisdom, and a bond with their people as enduring as the peaks that surround them.
 
 Their dominion flows from the capital city of **Stextin**, a jewel nestled in the icy heights. Their name—**Silvestre**—is taken from the _silvanite emerald_, a rare and radiant gemstone found only within the caverns of Abus, prized for its shifting green hues and said to pulse with latent magic.
 
-Unlike many royal houses, the Silvestre ascension came not by conquest nor bloodright, but through a storied election in ages past. The people of Abus—pragmatic and proud—chose them as sovereigns, a tradition long abandoned in most other lands. And while foreign rumors often paint the Silvestres in tones of secrecy or scandal, within their own borders they are regarded with loyalty and love.
+Unlike many royal houses, the Silvestre ascension came not by conquest nor blood right, but through a storied election in ages past. The people of Abus—pragmatic and proud—chose them as sovereigns, a tradition long abandoned in most other lands. And while foreign rumors often paint the Silvestres in tones of secrecy or scandal, within their own borders they are regarded with loyalty and love.
 
 Yet even the highest peaks cast long shadows. Among the nobility of Palonia, whispers abound—most notably regarding **Princess Sira**, the family’s eldest by age, yet not by blood. Tales spread beyond Abus claim she is the product of King Breixo’s dalliance with another, a scandalous tale untrue. In truth, Sira is adopted, brought into the royal fold as a child. While she bears no claim to the throne, she bears the name Silvestre with honor and pride.
 
@@ -44,7 +44,7 @@ It was Onda who designed the **Celestial Forges of Abus**, revolutionizing the k
 
 Though not born of royal blood, **Princess Sira Silvestre** has captured the hearts of Abus like few ever could. Discovered in the orphanage of Stextin and adopted on her sixth name day, she was brought into the fold of the Silvestres not as a symbol, but as a daughter—beloved, chosen, and cherished.
 
-Now seventeen and enrolled at **Nightvale Academy** as a Mizar, Sira is known for her brilliance, warmth, and grace. Her green eyes and sun-kissed skin mark her as a child of distant origins, but her poise and presence declare her nobility unmistakably. Though she holds no claim to the throne, she holds something far rarer: **the love of the people, unearned but never questioned**.
+Now seventeen and enrolled at [[Nightvale/Nightvale Academy\|Nightvale Academy]] as a Mizar, Sira is known for her brilliance, warmth, and grace. Her green eyes and sun-kissed skin mark her as a child of distant origins, but her poise and presence declare her nobility unmistakably. Though she holds no claim to the throne, she holds something far rarer: **the love of the people, unearned but never questioned**.
 
 ---
 

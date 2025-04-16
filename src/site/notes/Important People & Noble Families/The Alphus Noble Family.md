@@ -3,29 +3,72 @@
 ---
 
 
-The Alphus *Noble* Family, a family where their rise to power was forged not through blood or connections but through willpower and necessity. Long ago on The Night of Tau, the Dry Basin was left forgotten, once used as an desert prison for Keatara, the Dry Basin is now a lawless land of sorts. During The Night of Tau the Alphus family were the first to build a foundation for the abandoned prisoners to build a new life on. In doing this they were looked to for guidance, earning them their nobility. In those early years the Alphus family worked to build a place where families could be raised in peace, without fear of wars or suffering. However over the years their intentions changed to personal gain over altruism, they implemented taxes, took away protective laws, and rumors stir of under the table dealings.
+### The Alphus Noble Family
 
-Despite the rumors and recent governing choices, many of the people in the Dry Basin express praise towards the Alphus family, weather out of fear or admiration the name Alphus is a powerful one.
+**Lords of Swiftstone, Pillars of the Dry Basin**
 
-The Alphus Noble Family resides in the "capital" of the Dry Basin, Swiftstone. Their estate sits at the top of the sand swept cliff edge of Swiftstone,  built over the remnants of the Volcano that has grown dormant within the past hundred years. Their estate is often the center of many grand and lavish events and parties, never a quiet moment within the Alphus estate.
+In the unforgiving cradle of sand and stone known as the Dry Basin, where the winds whisper of forgotten crimes and lost kings, there stands a name carved not in blood, but in resolve: **Alphus**.
 
-### Grand Duke Askari Alphus:
+The **Alphus Noble Family** did not inherit power through crown or conquest, but claimed it in the ashes of chaos. On the fabled _Night of Tau_, when the last of Keatara’s desert prisons was abandoned to ruin, it was the Alphus family who dared to remain. With will forged in necessity, they laid the first stones of civilization amid the lawless wastes, offering structure to the forsaken. From this foundation rose **Swiftstone**, their capital, and from the people's desperation, they earned their title.
 
-Grand Duke Askari Alphus, the elder of the Alphus family. The people rumor that he is as old as Caipra, as knowledgeable as Aster and as quiet as the desert winds. His presence is demanding of attention, dripping with pride and a tone of arrogance Askari holds himself on a pedestal and basks in people showing him their devotion. He greeted Mirella with a bright smile and open arms when Dirie brought his new wife home for the first time. Askari had even arranged for one of the most lavish events Swiftstone had seen.
+But nobility earned is not always nobility preserved.
 
-### Duke Dirie Alphus:
+Over time, the fire of altruism dimmed, and the house that once stood for unity turned inward. Protection turned to taxation. Guidance to control. Whispered rumors speak of clandestine dealings, of pride calcified into tyranny. And yet—whether out of awe or fear—the Alphus name is still spoken with reverence across the Dry Basin. To some, they are saviors. To others, shadows cloaked in silk.
 
-Duke Dirie Alphus is a man with questionable motives, while his father Askari has the hold on the Dry Basin, Dirie has been known to be the one in control for a long time now. With or without Askari's knowledge the decisions made for the Dry Basin has been up to Dirie for the past fifty years. Dirie is no different from his father, holding himself in high stature with a high sense of pride, ruthless to all who wrong him no matter the status.
+Perched atop the windswept cliffs of a slumbering volcano, their gilded estate is a monument to ambition. There, behind silk-draped halls and stone-carved emblems, the fate of the Dry Basin is still decided.
 
-While the people were rather upset over the disappearance of the youngest Prince and the Duchess, Dirie grew angry at the mention of their names, banning the use of his sons name within the Dry Basin. When asked about his wife the Duke would grow quiet, a look of disgust and disappointment on his face before he would change the subject. He ordered the history of his son be burned, and with it his memory, however he refused to do so for his wife, gritting his teeth through the ritual the people present knew he wanted more. 
+---
 
-### Duchess Mirella Alphus:
+### Grand Duke Askari Alphus
 
-Duchess Mirella Alphus, the crown jewel of Swiftstone. Mirella was the Dry Basin's flaming pride, a glowing goddess to the people. She was loved by many, her kindness rather abstract from her nature of strength and pride. While firm in her judgements, she allowed leeway where she could. When she married Dirie, she accepted Alanis as her own, and with Dirie she had two children of her own, REDACTED and Narin.
+**"The Gilded Whisper"**
 
-Mirella loved all her children equally, something Dirie could not do. When Mirella disappeared the people of the Dry Basin lost a bit of pride in their brilliant home. Some rumors sparked of Dirie leaving with her in the dead of night, but those were quickly shut down.
+None remember a time before **Askari Alphus** ruled the Dry Basin—some even claim he remembers the sky before it cracked. Cloaked in opulence and silence, the Grand Duke is a man of commanding presence, one who rarely speaks but never goes unheard. His gaze is enough to silence a hall, and his name enough to halt a rebellion. Where others wield armies, Askari wields _awe_.
 
-### Prince Alanis Alphus:
+Though his son now holds the reins of daily rule, Askari’s influence lingers in every corridor of Swiftstone like perfume after the flame. Arrogant, cunning, and endlessly proud, he relishes in worship, demanding loyalty as effortlessly as the desert demands thirst. When he welcomed Mirella into the family, it was with a celebration so decadent the Dry Basin still calls it _The Crimson Week_—a reminder that Askari’s approval is both rare and resplendent.
 
-### Princess Narin Alphus:
+---
 
+### Duke Dirie Alphus
+
+**"The Burned Falcon"**
+
+If Askari is the legacy of Alphus, then **Dirie Alphus** is its future—and its curse. Calculating and merciless, Dirie has long acted as the _true_ ruler of the Dry Basin, manipulating trade routes, rewriting laws, and crushing dissent with chilling precision. His smile is a blade; his silence, a sentence.
+
+Though once praised for modernizing Swiftstone, his heart has blackened with years of betrayal, loss, and ambition. His rage is infamous—particularly surrounding the forbidden memory of his middle child and the disappearance of his beloved wife, **Mirella**. The mention of either is enough to ice the air in any chamber. He has ordered names erased, histories burned, and faces forgotten. And yet, for all his fire, something in his eyes still flickers—a sorrow hidden behind the ash.
+
+---
+
+### Duchess Mirella Alphus
+
+**"The Flame of Swiftstone"**
+
+Where Dirie brings dread, **Mirella Alphus** once brought light. Called by the people _the Flame of Swiftstone_, Mirella was the Dry Basin’s pride: radiant, regal, and strong of will. Though known for her beauty, it was her strength, compassion, and strategic mind that truly captured the hearts of her people.
+
+She was a stabilizing force within the Alphus estate, raising her children with equal love and offering warmth in a palace of stone. But her fire burned too bright for the darkness surrounding her, and one night—without warning—she vanished. Rumors swirl like desert winds: some say she fled; others whisper she was taken. Dirie’s silence on the matter speaks volumes, his fury thinly veiled.
+
+Her absence haunts Swiftstone, and some say her name still echoes through its volcanic halls.
+
+---
+
+### Prince Alanis Alphus
+
+**"The Desert Viper"**
+
+**Alanis Alphus**, firstborn of the house and heir in name, is a creature of polished charm and serpentine cunning. At twenty-one, he has mastered the subtle art of politics, all smiles and flattery in public, yet sharp-tongued and callous behind closed doors. He walks with pride, dresses with extravagance, and speaks as if every word were a decree.
+
+Orphaned of his birth mother young, Alanis grew under the guidance of Mirella, whom he accepted more for her influence than her affection. It is said that his truest loyalty lies with **Grand Duke Askari**, whose teachings of manipulation and control have shaped Alanis more than any parental warmth ever could.
+
+To the people, he is a vision of nobility. To those who know better, he is a viper waiting to strike—handsome, calculating, and entirely self-serving.
+
+---
+
+### Princess Narin Alphus
+
+**"The Ghost of the Canyons"**
+
+Where her brother commands rooms, **Princess Narin Alphus** _vanishes_ from them. At fifteen, Narin moves like wind across sand: unseen, unheard, and impossible to catch. Sharp-eyed and clever, she is no ornament of court but a creature of stillness and solitude.
+
+The youngest of the Alphus line, Narin shuns society’s expectations. She loathes the dresses, the dances, the decadent pageantry of her station. Rumors speak of her slipping into the canyon wilds under moonlight, where she trains in secret, her hair dusted with ash, her boots worn with quiet rebellion.
+
+Despite her distance, the people adore her—not as a noble, but as a symbol of resistance. They call her _Stonebloom_, the flower that grows where nothing should. And though Dirie sees her as an echo of a vanished wife, those with vision know that Narin is not an echo—she is a storm waiting to break.

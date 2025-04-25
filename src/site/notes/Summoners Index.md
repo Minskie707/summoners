@@ -67,6 +67,7 @@
 
 ### Events & Festivals
 [[Events & Festivals/Calendar\|Calendar]]
+[[Events & Festivals/The Procyon Showcase\|The Procyon Showcase]]
 
 ### Important People & Noble Families
 [[Important People & Noble Families/The Alphus Noble Family\|The Alphus Noble Family]]
@@ -80,5 +81,5 @@
 [[Politics, Cultural tings & Other Info/Orphanages & Orphans\|Orphanages & Orphans]]
 [[Politics, Cultural tings & Other Info/Common Information\|Common Information]]
 [[Politics, Cultural tings & Other Info/Ether\|Ether]]
-[[Politics, Cultural tings & Other Info/Etherlings\|Etherlings]]
+[[Politics, Cultural tings & Other Info/Etherling\|Etherling]]
 [[Politics, Cultural tings & Other Info/Liquid Starlight\|Liquid Starlight]]

@@ -13,7 +13,7 @@ Ether is highly dangerous when consumed, causing a horrific transformation over 
 
 - Stage Two: Fatigue intensifies, accompanied by growing pains as limbs elongate unnaturally. Skin pigmentation changes to either pitch black or ghostly white, and the whites of the eyes darken to a deep gray.
 
-- Stage Three: The victim’s mind deteriorates, leading even the most strong-willed to madness. Claws grow, eyes turn black, and teeth sharpen into fangs, completing their transformation into a terrifying [[Politics, Cultural tings & Other Info/Etherlings\|Etherlings]]—a feral, twisted creature driven by an insatiable rage.
+- Stage Three: The victim’s mind deteriorates, leading even the most strong-willed to madness. Claws grow, eyes turn black, and teeth sharpen into fangs, completing their transformation into a terrifying [[Politics, Cultural tings & Other Info/Etherling\|Etherling]]—a feral, twisted creature driven by an insatiable rage.
 
 The time span for these transformations varies, occurring over 3 days to 2 weeks, with intense suffering at every stage.
 

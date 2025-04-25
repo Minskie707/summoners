@@ -11,11 +11,15 @@ Estrye is a mountainous jungle. The capital sits on a peninsula, protected on al
 
 The capital and the largest city of Estrye. Since it's on a peninsula it is protected by water and high mountains. This means there's also only one roadway in and out of Nagos, known as the Queen’s Road. Nagos holds the most popular Midsummer festival every year, the maypole stands 20 ft tall. The climate is hot and dewy.
 
+The city is known to house a large market for magical and artificer goods as the country holds a steady trade route with Hythe in The Shattered Isles.
+
   
 
 ## Arcstead:
 
 The second largest city in Estrye. Sits on the northwestern part of Estrye. Arcstead is known as the main fishing and trade outpost of Estrye. The climate is warm and rainy.
+
+Similarly to Nagos, Arcstead houses a market for the magically inclined, however the better goods tend to be hidden where few know to look.
 
   
 

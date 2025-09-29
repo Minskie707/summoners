@@ -34,9 +34,9 @@
 [[Nightvale/Summoning/Specialties/Warg\|Warg]]
 
 ### Crystals & Magic
-[[Crystals & Magic/Crystal History & Info\|Crystal History & Info]]
+[[Crystals & Magic/Crystal History & General Information\|Crystal History & General Information]]
 [[Crystals & Magic/Crystal Types\|Crystal Types]]
-[[Crystals & Magic/Magic History & Info\|Magic History & Info]]
+[[Crystals & Magic/Magic History & General Information\|Magic History & General Information]]
 [[Crystals & Magic/Magic Types\|Magic Types]]
 
 ### Deities, Myths & Lore

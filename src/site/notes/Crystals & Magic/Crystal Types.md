@@ -26,24 +26,29 @@ The crystal is a deep red color with shimmers of silver in the light. Health cry
 
 ### Ice Crystals:
 
+The crystal feels cold to the touch and covers what it touches in a soft layer of frost. Ice crystals look like a pure blue ice from the purest of glaciers with a soft blue glow to them, however they do not melt as normal ice does. Ice crystals are used most commonly to preserve things, the layers of frost provided when placed in an ice chest are good at keeping various forms of food good for longer periods of time than normal ice.
 
 ### Light Crystals:
 
+The crystal glows with a warm white light emanating from it, the color of a pure white quartz. Light crystals give of bright light within a radius of 30ft and dim light within an additional radius of 15ft. Light crystals will commonly be found within mineshafts as amounts of light crystals are provided to those working the mines, however outside of that light crystals may only be found in the richest of company. While Light crystals are considered a basic crystal, they are quite expensive for the common folk.
 
 ## Advanced Crystals:
 
-There are a few other types that have more advanced uses. Crystals such as these are not commonly available to the general public. Listed below are crystals the average member of general public has most likely never handled.
+There are a few other types that have more advanced uses. Crystals such as these are not commonly available to the general public due to the danger in handling them. Listed below are crystals the average member of the general public has most likely never handled let alone seen.
 
 
 ### Gravity Crystals:
 
+These crystals look like a pure amethyst, deep purples with a soft purple glow to them. Gravity crystals when placed within the correct holding chamber are activated safely, the chambers that are used to hold gravity crystals act as an anchor for the item/items being affected. Gravity crystals are used on flying ships to send them into the air. Using a gravity crystal without a working chamber for it is illegal across all [[World History/Palonia\|Palonia]], by order of [[Deities, Myths & Lore/Uril\|Uril]] herself. 
 
 ### Life Crystals:
 
+These crystals, similarly to health crystals, are a deep red color; however they are speckled with gold looking flakes rather than silver. While life crystals are uncommon to most people, adventurers and summoners are much too used to their presence. Life crystals can be used to bring someone back to life, they are one time use crystals and for that they are quite expensive. Many who find themselves facing danger have at least one of these crystals on them at all times. The crystal takes an action to use, and upon use the dead creature is brought back, gaining 3d8 +4 hit points back.
 
 ### Containment Crystals:
 
+These crystals can look a deeply colored smokey quartz, with a hollow looking inside that allows light to pass through slightly giving the crystals an eerie shadowed glow. Containment crystals can vary in sizes, depending on what they are needed to contain. When activated correctly a creature can be contained within the crystal, once a creature is contained the hollowed inside shows the creature in a hibernation state, a soft colored fog surrounding them. Uril has stated the fog is the creatures very being, the essence that makes up their ideology, their aura, their soul. Containment crystals are only sanctioned to be used in dire circumstances as many have argued against the morality of its use on common criminals.
   
 ### Surveillance Crystals:
 
-
+These crystals can look like various types of obsidian, commonly dark and rounded in shape. Surveillance crystals are placed within metal sockets etched in runes that allow the crystals to work. Commonly surveillance crystals send the images and sound they capture to a "mother crystal", which is ordinarily locked away in its own room or area, with an attendant left to watch it. Surveillance crystals can be found around public facilities as well as within many noble family homes.

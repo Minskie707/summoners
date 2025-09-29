@@ -11,6 +11,6 @@ Legacies, are students from a house of summoners. Most commonly referred to as a
 — Transcribed by Scribe, Krok, Year of Petra 918 ALTN
 
 
-It is expected of all legacies to uphold the best form of the [[Nightvale/Summoner's Codex\|Summoner's Codex]]. They are to be the examples for all students. Though their names might hold power outside of Nightvale, the academy holds its own hierarchy of power. It is encouraged legacies withhold themselves from grudges, with the hope it might save more than just their lives.
+It is expected of all legacies to uphold the best form of the Summoner's Codex. They are to be the examples for all students. Though their names might hold power outside of Nightvale, the academy holds its own hierarchy of power. It is encouraged legacies withhold themselves from grudges, with the hope it might save more than just their lives.
 
   

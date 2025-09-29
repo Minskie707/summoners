@@ -3,7 +3,7 @@
 ---
 
 # Welcome to the Summoners Index
- ![Palonia v1.3.jpg](/img/user/Images/Palonia%20v1.3.jpg)
+![9ZnejHkcxn8SaLzjY5psAF.jpg](/img/user/Images/9ZnejHkcxn8SaLzjY5psAF.jpg)
 (The information listed here is to help you as the player build a character within this world. Currently "un-polished")
 ### World History
 [[World History/The Night of Tau\|The Night of Tau]]

@@ -3,23 +3,29 @@
 ---
 
 
-The Shattered Isles stands where a once beautiful and deep island forest used to stand. Much like [[World History/Keatara\|Keatara]], it was subject to destruction on [[World History/The Night of Tau\|The Night of Tau]]. As the name suggests, the Island shattered into smaller islands. The Island was believed to be uninhabited before Tau, Archmages and scientists set out to research the lands after The Night of Tau. Whatever or whoever had been stopping them before wasn’t around any longer. They set up what began as two outposts, but quickly turned into two small cities. Hythe, and Valross. However, in their exploration, they came across something unplanned for, the inhabitants of the so-called *uninhabitable* islands. Groups of savage tribes lined the eastern coasts near [[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]], they labeled the camps as Edosa. A larger island to the south of the main island houses the remnants of [[Deities, Myths & Lore/Uril\|Uril]]'s temple.
+**The Shattered Isles**
 
-  
+Where once stood a lush and unbroken forest, there now lies a splintered chain of islands: the Shattered Isles. On [[World History/The Night of Tau\|The Night of Tau]], the land itself cracked apart, scattering its jungles into fragments surrounded by endless sea. For ages, scholars believed these isles to be barren and forsaken, but the cataclysm revealed otherwise. When archmages and artificers ventured here to study the aftermath, they discovered not only fertile ground for their research, but also hidden peoples who had endured the isles’ savage wilds.
 
-## Hythe:
+Now, the Shattered Isles are divided—between Hythe’s gleaming towers of discovery, Valross’s frontier adventurers, the scattered Edosan tribes, and the shadow of [[Deities, Myths & Lore/Uril\|Uril]]’s ruined temple to the south.
 
-The “capital” of The Shattered Isles. Built in the center of a natural stone wall, the city is half built, half carved out of stone. The climate is hot and humid, thick jungles surround the city. Known as a land of innovation, it's full of science and research. Scientists and mages alike find themselves with new inventions almost every day.
+---
 
-  
+**Hythe**  
+Known as the heart of the Shattered Isles, Hythe serves as their de facto capital. Built within the embrace of a natural stone wall, its architecture is half-carved from the cliffs and half raised by arcane design. Thick jungles press against its borders, and the climate is hot and wet, often veiling the city in mist. Hythe is famed as a crucible of innovation, where scholars and spellwrights craft strange new devices and potions daily. Expeditions regularly set forth from Hythe into the overgrown ruins of Uril’s temple, drawn by tales of crystal-lined caverns and reagents touched by divine power.
 
-## Valross:
+---
 
-The smaller city of the two, its climate is a moderate temperature but very humid due to the dense jungle. 
+**Valross**  
+Smaller and rougher than Hythe, Valross thrives at the edge of the wilderness. The air here is heavy with jungle moisture, and danger lurks beyond its palisades. The city is less a seat of invention and more a staging ground for those bold enough to brave the isles. Adventurers, explorers, and mercenaries are its lifeblood, though a handful of inventors still linger—selling their wares to those reckless enough to need them. Valross lacks Hythe’s polish, but it hums with restless energy, the spirit of survival and opportunity.
 
-  
+---
 
-## Edosa:
+**Edosa**  
+Along the eastern coasts lie the tribes of Edosa. Once spread further inland, they were driven back when the outsiders carved out Hythe and Valross. Now, their camps cling to the edges of the isles, where they endure the humid heat and watch the intruders who stole their lands. The Edosans are fierce and resilient, masters of ambush and guerrilla hunting. For years they remained distant, but of late, their hunting parties have drawn ever closer to the new cities—a warning that their patience may not last.
 
-The tribal camps of The Shattered Isles. Having been pushed back by the newer inhabitants of their lands they resort to living on the outer “islands” of the eastern coasts. The climate is warm with high humidity.
+---
+
+**The Ruined Temple of Uril**  
+South of the main island lies a larger shard of land, home to the shattered remains of Uril’s temple. Its crumbling halls are said to conceal a cavern of radiant crystals ([[Crystals & Magic/Crystal History & General Information\|Crystal History & General Information]]). The ruins are perilous, choked with beasts, traps, and echoes of the temple’s old guardians. Yet despite the danger, the promise of knowledge and power lures adventurers here in steady droves. For some, the temple is a death sentence—for others, it is the key to greatness.
 

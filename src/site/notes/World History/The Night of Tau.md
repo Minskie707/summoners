@@ -16,7 +16,7 @@ When dawn kissed the battered land, **eighteen figures** stood where silence had
 
 The mortals, never having known gods, beheld these beings with awe, terror, and trembling reverence. Though peace lay in their intentions, devastation marked their coming: cities were turned to rubble, islands sank, and thousands perished in fire and quake.
 
-But sorrow softened their power. With hands of light and song, the celestial beings labored to mend what they had broken. And when the land was soothed, they bestowed a gift that would forever change the fate of mortalkind: **magic**.
+But sorrow softened their power. With hands of light and song, the celestial beings labored to mend what they had broken. And when the land was soothed, they bestowed a gift that would forever change the fate of mortal kind: **magic**.
 
 And so they were named—**Gods, Deities, the All-Powerful**—and temples rose to honor them. Yet not all gifts are embraced, and not all powers are pure. Some gods were feared, reviled for the nature of what they had given. Mortals turned on their saviors, casting them out into exile.
 

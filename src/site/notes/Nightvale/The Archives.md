@@ -10,7 +10,7 @@ Winding between the towering shelves of the grand chamber walks **[[Deities, Myt
 
 The Archives, however, is not a place of comfort. Ancient wards—crafted long before the age of most kingdoms—line its stone walls. At its heart hangs a grand clock of tarnished brass, suspended above the central rotunda. When the hands approach midnight, students grow silent, hurried. For when the clock strikes twelve, **three bells sound**—clear, cold, and absolute. They do not ring to announce the hour; they toll to **warn**.
 
-As the final chime echoes, the wards ignite. Pale blue runes etched deep into the stone shimmer to life, pulsing with buried magic. Once awakened, these spells lock the Archives in a state known as **Lockdown**—a total seal impervious to dispel, teleportation, or divine intervention. Only [[Important People & Noble Families/The Ilea Family\|The Ilea Family]] holds the knowledge of its origins or how the enchantment may be undone. All within are trapped until dawn.
+As the final chime echoes, the wards ignite. Pale blue runes etched deep into the stone shimmer to life, pulsing with buried magic. Once awakened, these spells lock the Archives in a state known as **Lockdown**—a total seal impervious to dispel, teleportation, or divine intervention. Only [[Noble Families, Important People, & Guilds/The Ilea Family\|The Ilea Family]] holds the knowledge of its origins or how the enchantment may be undone. All within are trapped until dawn.
 
 And dawn does not come for all.
 

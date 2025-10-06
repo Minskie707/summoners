@@ -3,13 +3,22 @@
 ---
 
 # Welcome to the Summoners Index
+
+	The following information is for the Summoners Campaign. 
+	Attention!! This campaign will have a heavy focus on story building within Palonia, that being said there will still be combat in the campaign itself however this campaign has less of a focus on combat. (Dont worry there will be time to satiate your bloodlust, just not as often as you might be used to)
+	The information provided below is to help you build a character within world, to give you an understanding of the world itself, and to help guide your decisions during the campaign. As the story progresses more information might be given to you here.
+	As for character building, this is an academy based campaign, players are expected to make characters of age 16, (this can be discussed however 16 is the oldest for the start of campaign) For guest characters after the campaign has already started the age may be different, however this depends on the stage of campaign as well as positioning of the party.
+	
+---
 ![9ZnejHkcxn8SaLzjY5psAF.jpg](/img/user/Images/9ZnejHkcxn8SaLzjY5psAF.jpg)
-(The information listed here is to help you as the player build a character within this world. Currently "un-polished")
+
+---
 ### World History
 [[World History/The Night of Tau\|The Night of Tau]]
 [[World History/Keatara\|Keatara]]
 [[World History/Palonia\|Palonia]]
 
+---
 ##### Countries
 [[World History/Palonia/Countries/Abus (Ah-boos)\|Abus (Ah-boos)]]
 [[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]]
@@ -17,6 +26,7 @@
 [[World History/Palonia/Countries/The Dry Basin\|The Dry Basin]]
 [[World History/Palonia/Countries/The Shattered Isles\|The Shattered Isles]]
 
+---
 ### Nightvale
 [[Nightvale/Nightvale Academy\|Nightvale Academy]]
 [[Nightvale/The Nightvale Council\|The Nightvale Council]]
@@ -25,6 +35,8 @@
 [[Nightvale/Levels\|Levels]]
 [[Nightvale/Reputation\|Reputation]]
 [[Nightvale/The Archives\|The Archives]]
+
+---
 ##### Summoning
 [[Nightvale/Summoning/Summoning Specialties\|Summoning Specialties]]
 [[Nightvale/Summoning/Specialties/Collector\|Collector]]
@@ -33,12 +45,14 @@
 [[Nightvale/Summoning/Specialties/Saor\|Saor]]
 [[Nightvale/Summoning/Specialties/Warg\|Warg]]
 
+---
 ### Crystals & Magic
 [[Crystals & Magic/Crystal History & General Information\|Crystal History & General Information]]
 [[Crystals & Magic/Crystal Types\|Crystal Types]]
 [[Crystals & Magic/Magic History & General Information\|Magic History & General Information]]
 [[Crystals & Magic/Magic Types\|Magic Types]]
 
+---
 ### Deities, Myths & Lore
 [[Deities, Myths & Lore/General Information\|General Information]]
 [[Deities, Myths & Lore/Adone\|Adone]]
@@ -65,21 +79,30 @@
 [[Deities, Myths & Lore/The Moirai\|The Moirai]]
 [[Deities, Myths & Lore/The Curse of Perception\|The Curse of Perception]]
 
+---
 ### Events & Festivals
 [[Events & Festivals/Calendar\|Calendar]]
 [[Events & Festivals/The Procyon Showcase\|The Procyon Showcase]]
+[[Events & Festivals/The Summoners Gauntlet\|The Summoners Gauntlet]]
+[[Events & Festivals/The Summoning Games\|The Summoning Games]]
 
-### Important People & Noble Families
-[[Important People & Noble Families/The Alphus Noble Family\|The Alphus Noble Family]]
-[[Important People & Noble Families/The Cynan Royal Family\|The Cynan Royal Family]]
-[[Important People & Noble Families/The Ilea Family\|The Ilea Family]]
-[[Important People & Noble Families/The Silvestre Royal Family\|The Silvestre Royal Family]]
-[[Important People & Noble Families/The Citrela Royal Family\|The Citrela Royal Family]]
-[[Important People & Noble Families/Karken Spiros\|Karken Spiros]]
+---
+### Noble Families, Important People, & Guilds
+[[Noble Families, Important People, & Guilds/The Alphus Noble Family\|The Alphus Noble Family]]
+[[Noble Families, Important People, & Guilds/The Cynan Royal Family\|The Cynan Royal Family]]
+[[Noble Families, Important People, & Guilds/The Ilea Family\|The Ilea Family]]
+[[Noble Families, Important People, & Guilds/The Silvestre Royal Family\|The Silvestre Royal Family]]
+[[Noble Families, Important People, & Guilds/The Citrela Royal Family\|The Citrela Royal Family]]
+[[Noble Families, Important People, & Guilds/Karken Spiros\|Karken Spiros]]
 
+---
 ### Politics, Cultural Things & Other Info
 [[Politics, Cultural tings & Other Info/Orphanages & Orphans\|Orphanages & Orphans]]
 [[Politics, Cultural tings & Other Info/Common Information\|Common Information]]
+[[Politics, Cultural tings & Other Info/Dragons of Palonia\|Dragons of Palonia]]
 [[Politics, Cultural tings & Other Info/Ether\|Ether]]
 [[Politics, Cultural tings & Other Info/Etherling\|Etherling]]
 [[Politics, Cultural tings & Other Info/Liquid Starlight\|Liquid Starlight]]
+[[Politics, Cultural tings & Other Info/Star Gems\|Star Gems]]
+
+---

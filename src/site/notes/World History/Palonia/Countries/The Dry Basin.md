@@ -9,7 +9,7 @@ The Dry Basin is a nearly uninhabitable, volcanic desert island. Having minimal 
 
 ## Swiftstone:
 
-The capital of the Dry Basin. The largest, and only city in the Dry Basin. “Ruled” by [[Important People & Noble Families/The Alphus Noble Family\|The Alphus Noble Family]], who appointed themselves the rulers of the Dry Basin on the Night of Tau. No one cared and so they now rule the lands. The climate is a moderate temperature and dry.
+The capital of the Dry Basin. The largest, and only city in the Dry Basin. “Ruled” by [[Noble Families, Important People, & Guilds/The Alphus Noble Family\|The Alphus Noble Family]], who appointed themselves the rulers of the Dry Basin on the Night of Tau. No one cared and so they now rule the lands. The climate is a moderate temperature and dry.
 
   
 

@@ -48,6 +48,8 @@ These crystals, similarly to health crystals, are a deep red color; however they
 ### Containment Crystals:
 
 These crystals can look a deeply colored smokey quartz, with a hollow looking inside that allows light to pass through slightly giving the crystals an eerie shadowed glow. Containment crystals can vary in sizes, depending on what they are needed to contain. When activated correctly a creature can be contained within the crystal, once a creature is contained the hollowed inside shows the creature in a hibernation state, a soft colored fog surrounding them. Uril has stated the fog is the creatures very being, the essence that makes up their ideology, their aura, their soul. Containment crystals are only sanctioned to be used in dire circumstances as many have argued against the morality of its use on common criminals.
+
+Before containment crystals were unsanctioned for uses on minor crimes, many containment crystals were made with some minor changes to them. Called Minor Containment Crystals, these crystals only hold the creatures soul rather than their body. Minor containment crystals were commonly used to tie criminals to a certain duty or job, as a form of punishment for their crimes; this was most common in discretions against a kingdom where a criminal with more minor crimes might be tied to a duty of servant or in some cases guard depending on physical stature.
   
 ### Surveillance Crystals:
 

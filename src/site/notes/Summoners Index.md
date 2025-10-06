@@ -80,6 +80,9 @@
 ---
 ### Events & Festivals
 [[Events & Festivals/Calendar\|Calendar]]
+[[Events & Festivals/Feast of the Moon Festival\|Feast of the Moon Festival]]
+[[Events & Festivals/Grand Midsummer Festival\|Grand Midsummer Festival]]
+[[Events & Festivals/The Marlevaur Carnival\|The Marlevaur Carnival]]
 [[Events & Festivals/The Procyon Showcase\|The Procyon Showcase]]
 [[Events & Festivals/The Summoners Gauntlet\|The Summoners Gauntlet]]
 [[Events & Festivals/The Summoning Games\|The Summoning Games]]

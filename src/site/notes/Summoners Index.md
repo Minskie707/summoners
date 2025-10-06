@@ -36,7 +36,6 @@
 [[Nightvale/Reputation\|Reputation]]
 [[Nightvale/The Archives\|The Archives]]
 
----
 ##### Summoning
 [[Nightvale/Summoning/Summoning Specialties\|Summoning Specialties]]
 [[Nightvale/Summoning/Specialties/Collector\|Collector]]

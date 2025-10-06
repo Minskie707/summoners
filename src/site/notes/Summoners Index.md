@@ -18,7 +18,6 @@
 [[World History/Keatara\|Keatara]]
 [[World History/Palonia\|Palonia]]
 
----
 ##### Countries
 [[World History/Palonia/Countries/Abus (Ah-boos)\|Abus (Ah-boos)]]
 [[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]]

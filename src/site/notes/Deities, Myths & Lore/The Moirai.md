@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/deities-myths-and-lore/the-moirai/"}
 ---
 
+## The Myth of The Moirai
+
+---
 In the annals of ancient times, when the world was woven from mysteries and the stars held secrets yet unspoken, there were three sisters known as The Moirai, the Oracles of Destiny. These three women, young in face yet timeless in spirit, were blessed—or perhaps cursed—with the ability to see into the future. Their prophecies foretold the fates of kings and commoners alike, drawing all who longed for answers into their elusive, ethereal presence.
 
 The Moirai were daughters of an entity whispered only as "The Dust," a primordial force as ancient as the stars themselves. It was said that The Dust, a being older than light, gifted his daughters with visions that transcended mortal comprehension. They were beautiful beyond earthly measure, untouched by time’s decay, forever young. Legends claimed they dwelt in a hidden temple by the shore, where the mist met the sea, a haven for those desperate enough to risk their minds to gain knowledge of their future.

@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/deities-myths-and-lore/the-curse-of-perception/"}
 ---
 
+## The Legend of The Curse of Perception
+(A children's fable)
+
+---
 Long ago, in an age when gods still walked the mortal plane, there was a goddess named **REDACTED**, revered as the divine patron of beauty and ambition. She was known for her celestial elegance and cunning wit, accustomed to commanding the adoration of mortals and inspiring reverence among her divine peers.
 
 Her gaze fell upon a mortal prince named Kaelith, whose deeds in battle were forging a path to the throne. Kaelith was a striking figure, his broad shoulders and battle-worn armor a testament to his trials on the field of war. His golden hair, often unkempt from days in the saddle, seemed to catch the light of every sunrise, and his piercing blue eyes held the fire of determination and a touch of sorrow. He wielded his blade with the precision of a master, but it was his charisma that truly set him apart. His speeches rallied armies, inspiring loyalty even among the weary and downtrodden.

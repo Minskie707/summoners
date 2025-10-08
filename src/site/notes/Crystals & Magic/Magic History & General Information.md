@@ -3,6 +3,8 @@
 ---
 
 
+While many might choose to believe that Palonia always had magic, this isn't necessarily true; long ago, before [[World History/The Night of Tau\|The Night of Tau]] Palonia was a rather mundane place. Although it was full of life, it lacked the arcane power that it has now. A while after the Night of Tau, the Deities that had arrived chose to gift the mortals of the world a fraction of their own power, allowing magic to run through the veins of Palonia freely.
+
 Palonia has various forms of magic, the type most mortals are used to is that of the basic schools of magic; Abjuration, Conjuration, Divination, Enchantment, Evocation, Illusion, Necromancy, and Transmutation. While some mortals might know things such as wild magic, a majority know the basic schools of magic. For the more adept in their trade, there are a few other types of magic, not taught in mundane magic schools. Nightvale Academy offers students the opportunity to learn from a few different forms of magic.
 
 Students are taught various forms of casting spells as certain spells have certain ritual requirements that require teaching.

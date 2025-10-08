@@ -2,10 +2,27 @@
 {"dg-publish":true,"permalink":"/deities-myths-and-lore/general-information/"}
 ---
 
-Long ago on [[World History/The Night of Tau\|The Night of Tau]], a meteor shower that changed the world came down. Within the molten hot stones falling from the heavens were entities we now refer to as deities, or gods to some. The shower itself was beautiful, painting the sky in wondrous colorful lights. The air aromatizing with different scents, all dependent on where you were at the time. In [[World History/Keatara\|Keatara]] it was said to smell of old books and clovers, in [[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]] the smell of wild flowers and the metallic scent of blood. At the time, people didn’t know what to think; these creatures had descended upon them sending their world into chaos. Many people lost their homes during the night and others lost their loved ones. At first the mortals were angry, and rightfully so, however the rage slowly left as they watched these beings rebuild. Although they refused to bring back the dead and couldn't fix the broken lands, they built back all the homes they could. Gaining the trust of the mortals as they used their gifts to assist them. The mortals built monuments to honor these heavenly beings and named them as deities; gods. So these deities gifted the mortal world with magic, something not commonly found or used at the time.
+**The Deities of Palonia**  
+_Born of starlight and ruin, they fell upon the mortal world in a rain of fire, reshaping all that came before._
 
+---
 
-Over time the mortals began to learn more about these deities, and in some cases became untrusting and afraid of them. The mortals chose to outcast those they didn’t trust, feeling spurned and abandoned; the deities left, going where mortals could not find them. As time passed, these deities were slowly forgotten by the majority, turning into legends and myths rather than fact. It’s believed that the deities had gone back to where they came from, or somehow died within the mortal world. Those of the deities that were not cast out, stayed around the mortals. Building lives for themselves where they saw fit. Many choosing to stay within the walls of  [[Nightvale/Nightvale Academy\|Nightvale Academy]].
+**Lore:**  
+On [[World History/The Night of Tau\|The Night of Tau]], the heavens ignited in a storm of meteors—each one carrying within its heart a being of immense power. The falling stones burned the sky in radiant hues of violet, gold, and ember, their descent filling the air with strange, enchanting scents. In [[World History/Keatara\|Keatara]], witnesses spoke of the smell of old parchment and clover; in [[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]], the perfume of wildflowers and the metallic tang of blood.
 
+From these celestial vessels emerged the first deities—creatures of divine form and will. Their arrival wrought both wonder and devastation. Cities fell, forests burned, and the lands split apart. Mortals, terrified and furious, turned their wrath upon these beings from the stars. Yet the deities did not strike back. Instead, they rebuilt what they could, shaping homes, soothing storms, and coaxing beauty from ruin. Though they could not restore the dead or heal every wound, their gifts brought balance to the shattered world.
 
-Mortals found that some of the deities referred to each other as you would refer to your own family. In some cases it was found to be true that they were in fact related, whereas others weren't actual related and simply referred to one another as siblings due to their familiarity with one another. This confused many mortals and so they were simply written off as related. The deities themselves are in fact capable of carrying children, however many prefer not to and would rather create their offspring through magical means.
+In time, gratitude overcame fear. Mortals raised monuments to their shining visitors, and in return, the deities gifted the mortal realm with _magic_—a spark of creation drawn from their own essence. For generations, this exchange bound gods and mortals together.
+
+But harmony faltered. Understanding bred suspicion, and reverence turned to fear. The mortals who once worshipped the gods began to reject them, claiming they had overstepped. Many deities withdrew from mortal lands, retreating to realms unseen. Others lingered, weaving themselves into the fabric of society, and some—those seeking quiet purpose—found sanctuary within **[[Nightvale/Nightvale Academy\|Nightvale Academy]]**, where divine power is studied rather than feared.
+
+Those who remain often speak of one another as kin. Some are bound by true lineage, while others claim familial titles from long companionship. Their origins are still debated among scholars; though it is known that deities are capable of bearing children, most choose instead to create their offspring through divine artifice—binding life and magic as one.
+
+---
+
+**Common Knowledge**  
+• **Event of Origin:** The Night of Tau — a meteor storm that brought the deities to Palonia.  
+• **Gift to Mortals:** The creation and spread of magic.  
+• **Symbols of Divinity:** Starlight, meteorite fragments, and the celestial flame.  
+• **Known Sanctum:** Nightvale Academy — sanctuary to many of the remaining gods.  
+• **Divine Kinship:** Some deities share true bloodlines; others claim familial ties of spirit or purpose.

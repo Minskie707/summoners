@@ -81,6 +81,7 @@
 ### Events & Festivals
 [[Events & Festivals/Calendar\|Calendar]]
 [[Events & Festivals/Feast of the Moon Festival\|Feast of the Moon Festival]]
+[[Events & Festivals/Festival of Tau\|Festival of Tau]]
 [[Events & Festivals/Grand Midsummer Festival\|Grand Midsummer Festival]]
 [[Events & Festivals/The Marlevaur Carnival\|The Marlevaur Carnival]]
 [[Events & Festivals/The Procyon Showcase\|The Procyon Showcase]]

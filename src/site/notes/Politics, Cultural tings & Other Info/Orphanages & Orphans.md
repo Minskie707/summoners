@@ -2,14 +2,65 @@
 {"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/orphanages-and-orphans/"}
 ---
 
-Where most orphans tend to not have last names, the orphans of [[World History/Palonia\|Palonia]] are given a last name based off their regions.
 
-[[World History/Palonia/Countries/Fostrela (Fahs-trel-uh)\|Fostrela (Fahs-trel-uh)]]: Rivers
-[[World History/Palonia/Countries/Abus (Ah-boos)\|Abus (Ah-boos)]]: Snow
-[[World History/Palonia/Countries/Estrye (Es-tray)\|Estrye (Es-tray)]]: Vine
-[[World History/Palonia/Countries/The Shattered Isles\|The Shattered Isles]]: Storm
-[[World History/Palonia/Countries/The Dry Basin\|The Dry Basin]]: Sand
+# The Orphans of Palonia
 
-Although orphans might be located everywhere, there aren't orphanages in every town. However every capital houses at least one orphanage. The kingdoms and people of the capital housing the orphanage are to provide one of the basics to assist in caring for the orphans, this can include, food, clothes, blankets, or in some rare cases toys are accepted instead. Despite the call for assistance in taking care of the orphans, many orphanages are left with barely enough to care for those it houses.
+_“No name, no coin, no kin—yet still they endure.”_  
+— Common proverb among caretakers of the Faith of Nutuna
 
-Orphanages being placed within every capital was under the ruling of [[Deities, Myths & Lore/Nutuna\|Nutuna]] the Goddess of Youth. She wanted to ensure that there would be at least a bed, maybe some bread and fresh clothes for every orphan, a way to help the orphans who could not make it to her temple all the way in Panta. Though most orphanages are struggling to get by, the ones located in Abus are almost thriving. [[Noble Families, Important People, & Guilds/The Silvestre Royal Family\|The Silvestre Royal Family]] make sure enough funds are allocated to the main orphanage in Stextin and Nutuna over sees the care for those at her temple in the mountain.
+Though every nation in [[World History/Palonia\|Palonia]] claims to uphold care for its people, none share a story as intertwined with mercy and survival as its orphans. From frost-bitten peaks to desert winds, these children carry the quiet legacy of a world still recovering from the scars of [[World History/The Night of Tau\|The Night of Tau]].
+
+---
+
+## Names of the Nameless
+
+In Palonia, orphans are given a surname reflecting their homeland—an unspoken promise that even those without family still belong somewhere.
+
+| Region                  | Orphan Surname | Example |
+| ----------------------- | -------------- | ------- |
+| **Fostrela**            | Rivers         |         |
+| **Abus**                | Snow           |         |
+| **Estrye**              | Vine           |         |
+| **The Shattered Isles** | Storm          |         |
+| **The Dry Basin**       | Sand           |         |
+
+Such names are used across all walks of life, from the lowest beggar to those who rise to knighthood or scholarship. “Rivers,” “Snow,” and the rest have become symbols of resilience—reminders that lineage is not the only source of legacy.
+
+---
+
+## Orphanages of the Realms
+
+While orphans can be found in every corner of Palonia, **formal orphanages exist only within the capital cities** of each nation. These institutions are sanctuaries born from divine decree rather than civic duty.
+
+Under the **command of [[Deities, Myths & Lore/Nutuna\|Nutuna]]**, Goddess of Youth, each capital was mandated to maintain at least one orphanage, sustained by the charity of its citizens and rulers alike. Nutuna’s divine vision was simple:
+
+> _“Let no child sleep beneath cold stone when a bed may be shared.”_
+
+Despite this, many orphanages struggle to meet even the barest needs. Each kingdom contributes in its own way—food, fabric, or coin—but seldom enough to ease the burden of hunger or the weight of too many empty beds. Only in rare cases do wealthier citizens or temples provide toys or books for the children’s comfort.
+
+---
+
+## The Temple of Nutuna
+
+Far to the east, in the high mountains of **Panta** (an island of [[World History/Palonia/Countries/Abus (Ah-boos)\|Abus (Ah-boos)]]), stands Nutuna’s sacred temple. More than a place of worship, it is both sanctuary and symbol—a sprawling orphanage overseen by the Goddess herself and her devoted acolytes.
+
+Pilgrims claim the temple’s hearths never dim, and that every child who prays within its halls dreams of a gentle hand upon their cheek. Those who grow to adulthood within its walls often become clerics, healers, or caretakers who dedicate their lives to repaying Nutuna’s grace.
+
+### Divine Oversight in Abus
+
+Of all the nations, **Abus** stands as the most prosperous example of Nutuna’s will. **[[Noble Families, Important People, & Guilds/The Silvestre Royal Family\|The Silvestre Royal Family]]** funds and maintains the grand orphanage of **Stextin**, ensuring its halls remain full of warmth, food, and learning. Nutuna’s influence is most tangible here; it is said she appears to the caretakers in dreams, guiding them in their duties.
+
+---
+
+## Shrines of Prayer
+
+Even in struggling orphanages, a small **alcove of prayer** dedicated to Nutuna can always be found—often adorned with handmade carvings or ribbons left by the children. These humble shrines serve as both chapel and confession, where young voices whisper their hopes:
+
+- _“Bring my sister home.”_
+    
+- _“Let tomorrow be warm.”_
+    
+- _“Let someone remember my name.”_
+    
+
+Many believe that Nutuna answers not in words, but in opportunity: a loaf left at the door, a passing adventurer offering aid, or a kind stranger who decides not to walk past.

@@ -16,13 +16,13 @@ Though every nation in [[World History/Palonia\|Palonia]] claims to uphold care 
 
 In Palonia, orphans are given a surname reflecting their homeland—an unspoken promise that even those without family still belong somewhere.
 
-| Region                  | Orphan Surname | Example |
-| ----------------------- | -------------- | ------- |
-| **Fostrela**            | Rivers         |         |
-| **Abus**                | Snow           |         |
-| **Estrye**              | Vine           |         |
-| **The Shattered Isles** | Storm          |         |
-| **The Dry Basin**       | Sand           |         |
+| Region                  | Orphan Surname | Example       |
+| ----------------------- | -------------- | ------------- |
+| **Fostrela**            | Rivers         | Elara Rivers  |
+| **Abus**                | Snow           | Dalen Snow    |
+| **Estrye**              | Vine           | Mariella Vine |
+| **The Shattered Isles** | Storm          | Kael Storm    |
+| **The Dry Basin**       | Sand           | Rina Sand     |
 
 Such names are used across all walks of life, from the lowest beggar to those who rise to knighthood or scholarship. “Rivers,” “Snow,” and the rest have become symbols of resilience—reminders that lineage is not the only source of legacy.
 

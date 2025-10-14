@@ -22,7 +22,7 @@ Though not the most widespread in influence, the Silvestres remain a force unto 
 
 **High Sovereign of Abus, Warden of the Mountain Realms**
 
-A towering figure both in presence and legacy, **King Breixo Silvestre** is a Frostborn Goliath whose bloodline is whispered to predate even the first kings of Palonia. Beneath his formidable stature and glacier-carved features lies a heart of tempered iron—unyielding, yet just. Known among his kin as the “Gentle Giant,” Breixo wields his voice like a warhorn and his judgment like a smith’s hammer: heavy, deliberate, and final.
+A towering figure both in presence and legacy, **King Breixo Silvestre** is a Frostborn Goliath whose bloodline is whispered to predate even the first kings of Palonia. Beneath his formidable stature and glacier-carved features lies a heart of tempered iron—unyielding, yet just. Known among his kin as the “Gentle Giant,” Breixo wields his voice like a war horn and his judgment like a smith’s hammer: heavy, deliberate, and final.
 
 Though beloved by his people for his wisdom and strength, he is not one to suffer insult lightly—**those who speak ill of his family often find the mountains less merciful than their king**. A sovereign of few words and deep thoughts, Breixo walks the line between mercy and might with masterful grace.
 

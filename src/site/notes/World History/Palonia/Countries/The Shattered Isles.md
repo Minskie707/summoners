@@ -3,7 +3,7 @@
 ---
 
 
-**The Shattered Isles**
+**The Shattered Isles — The Archipelago of Dawn**
 
 Where once stood a lush and unbroken forest, there now lies a splintered chain of islands: the Shattered Isles. On [[World History/The Night of Tau\|The Night of Tau]], the land itself cracked apart, scattering its jungles into fragments surrounded by endless sea. For ages, scholars believed these isles to be barren and forsaken, but the cataclysm revealed otherwise. When archmages and artificers ventured here to study the aftermath, they discovered not only fertile ground for their research, but also hidden peoples who had endured the isles’ savage wilds.
 

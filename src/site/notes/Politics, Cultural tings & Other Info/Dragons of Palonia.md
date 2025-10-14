@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/dragons-of-palonia/"}
 ---
 
+
 ### Dragons of Palonia
 
 In Palonia, dragons are not the aloof and unchanging paragons of destruction that appear in most tales. Rather, they are living dynasties of adaptable creatures, bound by both instinct and ceremony, whose forms and temperaments shift to match their environment, their lineage, and their bond with mortals. To ride a dragon, or to be chosen as its summoner, is to enter a pact with a creature that stands between beast and legend.
@@ -52,7 +53,7 @@ When a dragon bonds with a rider, its growth is no longer measured in centuries,
     
 - **Young Adult (true kinship).** Towering like a ship, calm where once it raged. The dragon may mark you with a sigil of its choosing, granting you a gift of its power. Together, you act as one.
     
-- **Adult (legend’s edge).** Your companion is vast, a shadow upon the land, wings like stormclouds. It may grant you a second mark, or even more, if your bond is unshakable. Few mortals ever walk this path to its end.
+- **Adult (legend’s edge).** Your companion is vast, a shadow upon the land, wings like storm clouds. It may grant you a second mark, or even more, if your bond is unshakable. Few mortals ever walk this path to its end.
     
 
 ---

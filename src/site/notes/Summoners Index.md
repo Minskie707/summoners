@@ -99,12 +99,13 @@
 
 ---
 ### Politics, Cultural Things & Other Info
-[[Politics, Cultural tings & Other Info/Orphanages & Orphans\|Orphanages & Orphans]]
 [[Politics, Cultural tings & Other Info/Common Information\|Common Information]]
 [[Politics, Cultural tings & Other Info/Dragons of Palonia\|Dragons of Palonia]]
 [[Politics, Cultural tings & Other Info/Ether\|Ether]]
 [[Politics, Cultural tings & Other Info/Etherling\|Etherling]]
 [[Politics, Cultural tings & Other Info/Liquid Starlight\|Liquid Starlight]]
+[[Politics, Cultural tings & Other Info/Orphanages & Orphans\|Orphanages & Orphans]]
 [[Politics, Cultural tings & Other Info/Star Gems\|Star Gems]]
+[[Politics, Cultural tings & Other Info/Tribes\|Tribes]]
 
 ---

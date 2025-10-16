@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/world-history/keatara/"}
 ---
 
+
 ### **The Lost Continent of Keatara**
 
 Among the histories taught across [[World History/Palonia\|Palonia]], one truth is seldom spoken in full: the tale of Keatara. Long before [[World History/The Night of Tau\|The Night of Tau]], Keatara was a continent of unparalleled beauty, a land where balance reigned and the gods themselves were said to walk. Even when magic waned in other realms, Keatara thrived with an almost divine radiance, its forests and rivers shimmering as though blessed by celestial hands.

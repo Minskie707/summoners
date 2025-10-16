@@ -104,9 +104,9 @@ From enchanted sails to beasts of burden, Palonia’s methods of travel are as d
 
 ## The Aetherglide Board
 
-_Wondrous Item, Very Rare (Requires Attunement)_
+_Wondrous Item, Vehicle, Very Rare_
 
-An **Aetherglide Board** is a single-rider levitating device that harnesses gravity crystals and ether channels to propel its user mere inches above the ground—or higher, in skilled hands. Agile enough for battle, stable enough for long journeys, these boards are beloved by artificers, couriers, and daring adventurers.
+An **Aetherglide Board** is a single-rider levitating device that harnesses gravity crystals and ether channels to propel its user mere inches above the ground—or higher, in skilled hands. Agile enough for tricks, stable enough for long journeys, these boards are beloved by artificers, couriers, and daring adventurers.
 
 Each board is crafted for purpose, its design reflecting the temperament of its rider. Though costly to produce, they can be upgraded, enchanted, or customized for both form and function.
 
@@ -127,7 +127,7 @@ Each board is crafted for purpose, its design reflecting the temperament of its 
 ---
 
 **Customization:**  
-Each board can be modified through _artificer tinkering_ or _arcane infusion_. Upgrades include reinforced plating, ether thrusters, decorative glyphwork, and even custom sigils or colors.
+Each board can be modified through _artificer tinkering_ or _arcane infusion_. Upgrades include reinforced plating, ether thrusters, decorative glyphwork, and even custom sigils or colors. Enhancements like the ones listed below will cause the vehicle to require attunement once applied.
 
 **Common Enhancements:**
 

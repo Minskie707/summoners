@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/world-history/the-night-of-tau/"}
 ---
 
+
 **From the Archives of Elwin Biceran, High Archivist of Vixgate**  
 _Transcribed by Scribe Shael Beistina on the Night of Tau, Year of Petra 918 ALTN_
 

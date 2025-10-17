@@ -3,7 +3,7 @@
 ---
 
 
-Legacies, are students from a house of summoners. Most commonly referred to as a Summoner household. Legacies are held on a much finer line than most others, of course they’re expected to uphold the legacy their family has worked hard to build. Of course given the vast range of students chosen to attend the academy, many legacy names have quite the reputation. On that same note, many legacy names have it out for each other as many can attest to.
+Legacies, are students from a house of summoners. Most commonly referred to as a Summoner household. Legacies are held on a much finer line than most others, of course they’re expected to uphold the legacy their family has worked hard to build. Of course given the vast range of students chosen to attend the academy, many legacy names have quite the notoriety. On that same note, many legacy names have it out for each other as many can attest to.
 
 
 “A good general rule for students searching alliances outside of their party is to stay away from the arguments that are legacies. If two legacies are brought together, two legacies who… disagree, it cannot bring any good to those around. You don’t want to catch yourself in the middle of a war you were never a part of.” — Professor of Insight, Klara Mistal, Year of Petra 918 ALTN

@@ -32,7 +32,7 @@
 [[Nightvale/Challenges\|Challenges]]
 [[Nightvale/Legacies\|Legacies]]
 [[Nightvale/Levels\|Levels]]
-[[Nightvale/Reputation\|Reputation]]
+[[Nightvale/Notoriety\|Notoriety]]
 [[Nightvale/The Archives\|The Archives]]
 
 ##### Summoning

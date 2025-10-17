@@ -8,7 +8,7 @@ The school’s ([[Nightvale/Nightvale Academy\|Nightvale Academy]]) levels also 
 
 ## Procyon:
 
-Lowest on the food chain, Procyons are first years. Commonly just trying to learn how to handle their newfound power. Their classes might seem the easiest and most redundant in comparison to the course load of the other levels. While in some cases that's true, most believe it to be the opposite. Considering the first years have no real idea on how to handle their new abilities, or how to use their summons effectively some say its the most difficult year. Procyons are left to care for an egg when entering the school, it is in their best interest to protect that egg with all it might cost. Because of the eggs, Procyons are not allowed to leave academy grounds or contact outside the walls of the school for the first year.
+Lowest on the food chain, Procyon's are first years. Commonly just trying to learn how to handle their newfound power. Their classes might seem the easiest and most redundant in comparison to the course load of the other levels. While in some cases that's true, most believe it to be the opposite. Considering the first years have no real idea on how to handle their new abilities, or how to use their summons effectively some say its the most difficult year. With some years, Procyons have been left to care for an egg when entering the school, it is in their best interest to protect that egg with all it might cost. Because of the eggs, Procyons are not allowed to leave academy grounds or contact outside the walls of the school for the first year.
 
 
 ## Mizar:
@@ -28,7 +28,7 @@ Vega is where most gain valuable experience in combat, as this is the year when 
 
 ## Regulus:
 
-Regulus is the fifth year, still having challenges. However this year comes with, arguably, the most exciting class. Though I think its best to learn about this naturally, rather than through a history entry. 
+Regulus is the fifth year, still having challenges. However this year comes with, arguably, the most exciting class. One that means to prepare you for the events that Regulus students are to participate in at the end of the year; [[Events & Festivals/The Summoners Gauntlet\|The Summoners Gauntlet]] and [[Events & Festivals/The Summoning Games\|The Summoning Games]]. These events will serve as a test of not only the students abilities as a summoner but the summons abilities and development as well.
 
 
 ## Sirius:

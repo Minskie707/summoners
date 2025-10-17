@@ -19,3 +19,6 @@ Magic Circles however are much bigger, often times needing to be drawn over the 
 ### Magic Charms:
 
 Magic Charms, also commonly called talismans, are powerful trinkets that can grant both passive effects and abilities one must activate. While enchanted Charms are the most common, there have been a few recorded Divine Charms. While both are useful, Enchanted charms are rather common and tend to have lackluster effects and abilities when compared to Divine Charms. The difference of the two might go unnoticed to the untrained eye, but to those who know the true power of Magic Charms the difference between a simple enchantment and a divine channel is quite vast.
+
+glyphs
+runes

@@ -13,7 +13,7 @@ Lowest on the food chain, Procyon's are first years. Commonly just trying to lea
 
 ## Mizar:
 
-Second years, not much different from first years in their coursework. Although most think first year is the easiest, second tends to be the easiest year. Gaining only one class they certainly have a better chance of doing well in their coursework. Despite being allowed off campus, Mizars are not allowed to take job postings. For any sort of job you might feel the urge for, speak to the work administrator or see the board in Mizar commons.
+Second years, not much different from first years in their coursework. Although most think first year is the easiest, second tends to be the easiest year. Gaining only one class they certainly have a better chance of doing well in their coursework. Despite being allowed off campus, Mizars are not allowed to take job postings. For any sort of job you might feel the urge for, speak to the work administrator or see the board in the Mizar commons.
 
 
 ## Polaris:

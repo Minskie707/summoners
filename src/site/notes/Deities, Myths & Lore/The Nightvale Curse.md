@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/deities-myths-and-lore/the-nightvale-curse/"}
 ---
 
+**THIS IS GOING TO BE REWRITTEN**
 
 The Nightvale Curse is more of a fable, a children's tale, than a curse. It’s said that long, long ago there was a grand castle, and within this castle was a beautiful princess. The princess had hair resembling a phoenix’s flames, and her eyes were an entrancing hazel of golds, browns, and greens. Although she was loved by her people, she was often very sad. The princess had lost her love in a horrible accident with the neighboring kingdom. While she would spend hours wallowing in sorrow, her family's royal advisor and archmage’s wrath grew. How dare someone do such a thing to his princess, he swore a silent oath unbeknownst to the princess to get revenge in her name. The archmage worked tirelessly, day and night on a suitable revenge. His wrath only grew as he was unable to find the answers he wanted, in one last effort to get his way, he called upon the stars for guidance. He beckoned them to him at the highest peak while the kingdom held a celebration. He waited for minutes, then hours, desperately holding on, and just as he was about to give up… he heard a woman’s voice calling to him. The woman called herself **REDACTED** , she asked him why he seemed so angry. He told her why he was angry while begging her to appease this wrath inside him. When he answered she *laughed* not a mocking laugh but a soft one, before she spoke again.
 

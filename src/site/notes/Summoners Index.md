@@ -5,7 +5,7 @@
 # Welcome to the Summoners Index
 
 	The following information is for the Summoners Campaign. 
-	Attention!! This campaign will have a heavy focus on story building within Palonia, that being said there will still be combat in the campaign itself however this campaign has less of a focus on combat. (Dont worry there will be time to satiate your bloodlust, just not as often as you might be used to)
+	**Attention!!** This campaign will have a heavy focus on story building within Palonia, that being said there will still be combat in the campaign itself however this campaign has less of a focus on combat. (Dont worry there will be time to satiate your bloodlust, just not as often as you might be used to)
 	The information provided below is to help you build a character within world, to give you an understanding of the world itself, and to help guide your decisions during the campaign. As the story progresses more information might be given to you here.
 	As for character building, this is an academy based campaign, players are expected to make characters of age 16, (this can be discussed however 16 is the **oldest** for the start of campaign) For guest characters after the campaign has already started the age may be different, however this depends on the stage of campaign as well as positioning of the party.
 	

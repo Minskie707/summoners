@@ -56,7 +56,7 @@ The Queen rose from her seat, her voice trembling but firm. She ordered his impr
 > _“I did this for you!”_ he cried.  
 > _“You did this for yourself,”_ she answered.
 
-He was confined to the palace dungeons, and later sent across the western sea to a prison isle — a place of no return.
+He was confined to the palace dungeons, and later sent across the western sea to a prison isle — Syrenth, a place of no return.
 
 ---
 

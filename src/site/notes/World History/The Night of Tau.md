@@ -6,8 +6,9 @@
 **From the Archives of Elwin Biceran, High Archivist of Vixgate**  
 _Transcribed by Scribe Shael Beistina on the Night of Tau, Year of Petra 918 ALTN_
 
-> _“On the eve of the Summer Solstice, in an age long buried beneath millennia of dust and legend, the heavens wept fire. This night—forever etched in history as the Night of Tau—marked the first known contact between mortal-kind and the divine.”_
+> _“On the eve of the Summer Solstice, in an age long buried beneath millennia's of dust and legend, the heavens wept fire. This night—forever etched in history as the Night of Tau—marked the first known contact between mortal-kind and the divine.”_
 
+---
 ### 🜁 **The Night of Tau** 🜁  
 In the age before reckoning, when the world was yet untouched by divine will, a night unlike any other cleaved history in twain. The sky split open with fire as meteors fell—fiery lances from the heavens—scarring the earth and shaking the bones of the world.
 
@@ -25,18 +26,21 @@ Unable to return to the skies from whence they fell, the forsaken wandered the w
 
 > **“Seek well, seeker of truths. The gods have not left us. Some simply no longer wish to be found.”**
 
+---
 ### 🜃 **Supplemental Account — The Birth of Nightvale Academy** 🜃
-– Scribe Beistina, Night of Tau, 918 ALTN:
-Though the era before the Night of Tau lies shrouded in fading scroll and whispered myth, one truth remains certain: **before that night, mortals knew no gods**. The coming of the celestial beings did more than alter the hearts of mortal kind—it **transformed the world** itself. Magic surged through the leylines. Crystals rose from the ground like teeth of power. The very ecosystems of Palonia reshaped to accommodate forces previously unknown.
+– Scribe Shael Beistina, Night of Tau, 918 ALTN:
+Though the era before the Night of Tau lies shrouded in fading scroll and whispered myth, one truth remains certain: **before that night, mortals knew no gods**. The coming of the celestial beings did more than alter the hearts of mortal kind—it **transformed the world** itself. Magic surged through the leylines. Crystals rose from the ground like teeth of power. The very ecosystems of [[World History/Palonia\|Palonia]] reshaped to accommodate forces previously unknown.
 
 For many, this new age brought wonder. For others, it brought ruin.
 
-Ancient records—many singed by time or censorship—place **blame upon one called Calous**, though his role in the divine descent remains disputed. Yet amidst the fire that rained from the heavens, something else came to be: a structure of breathtaking grandeur, so finely wrought it could only have been carved by the hand of a god.
+Ancient records—many singed by time or censorship—place **blame upon one called [[Deities, Myths & Lore/Calous\|Calous]]**, though his role in the divine descent remains disputed. Yet amidst the fire that rained from the heavens, something else came to be: a structure of breathtaking grandeur, so finely wrought it could only have been carved by the hand of a god.
 
 As the people of **Vixgate** watched the sky split and stars fall, the earth too stirred. Upon a once-barren cliffside, a **fortress appeared**, silent and sudden. It bore no marks of construction. Its stone shimmered with iridescent veins, unknown to any mortal quarry or craftsman. The cliff that had stood empty at twilight now cradled a citadel humming with arcane life.
 
 **No hammer struck its walls. No hand placed its stones.**
 
-By order of the royal guard, and in awe of its mythical nature, the structure was named **Nightvale Academy**, after an old children’s tale whose origins are as mysterious as the fortress itself. Since that fateful night, Nightvale has become a beacon of magical scholarship—a place of learning, legend, and secrets as old as the gods themselves.
+By order of the royal guard, and in awe of its mythical nature, the structure was named **[[Nightvale/Nightvale Academy\|Nightvale Academy]]**, after an old children’s tale whose origins are as mysterious as the fortress itself. Since that fateful night, Nightvale has become a beacon of magical scholarship—a place of learning, legend, and secrets as old as the gods themselves.
 
 To this day, its halls echo with forgotten truths. Its spires shimmer in moonlight like the shards of fallen stars. And its presence remains the greatest enigma of the Night of Tau—**the night the sky wept fire, and gods walked among us.**
+
+---

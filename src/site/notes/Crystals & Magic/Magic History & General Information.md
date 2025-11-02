@@ -87,20 +87,20 @@ Spells cast using Liquid Starlight shine with radiant brilliance, embodying harm
 
 Believed to be crystallized fragments of divine essence, **Star Gems** shimmer with the same celestial glow as Liquid Starlight. Each gem corresponds to a month of birth, aligning with one’s fate and arcane resonance.
 
-|Month|Star Gem|Description|
-|---|---|---|
-|Hammer|Star Garnet|Deep red with a shifting inner light.|
-|Alturiak|Star Amethyst|Violet crystal laced with starlike flecks.|
-|Ches|Star Bloodstone|Dark green streaked with crimson shimmer.|
-|Tarsakh|Star Diamond|Clear as glass, radiant with prismatic fire.|
-|Mirtul|Star Emerald|Verdant green, pulsing with gentle warmth.|
-|Kythorn|Star Pearl|Softly luminescent, pale as dawn.|
-|Flamerule|Star Ruby|Brilliant crimson with a golden heart.|
-|Eleasis|Star Sardonyx|Layered amber and white with inner glow.|
-|Eleint|Star Sapphire|Deep blue, flecked with astral silver.|
-|Marpenoth|Star Opal|Multicolored gleam, ever-shifting hues.|
-|Uktar|Star Topaz|Golden-orange, gleaming like sunset.|
-|Nightal|Star Turquoise|Azure green with radiant swirls of light.|
+| Month     | Star Gem        | Description                                  |
+| --------- | --------------- | -------------------------------------------- |
+| Hammer    | Star Garnet     | Deep red with a shifting inner light.        |
+| Alturiak  | Star Amethyst   | Violet crystal laced with starlike flecks.   |
+| Ches      | Star Bloodstone | Dark green streaked with crimson shimmer.    |
+| Tarsakh   | Star Diamond    | Clear as glass, radiant with prismatic fire. |
+| Mirtul    | Star Emerald    | Verdant green, pulsing with gentle warmth.   |
+| Kythorn   | Star Pearl      | Softly luminescent, pale as dawn.            |
+| Flamerule | Star Ruby       | Brilliant crimson with a golden heart.       |
+| Eleasis   | Star Sardonyx   | Layered amber and white with inner glow.     |
+| Eleint    | Star Sapphire   | Deep blue, flecked with astral silver.       |
+| Marpenoth | Star Opal       | Multicolored gleam, ever-shifting hues.      |
+| Uktar     | Star Topaz      | Golden-orange, gleaming like sunset.         |
+| Nightal   | Star Turquoise  | Azure green with radiant swirls of light.    |
 
 Star Gems resonate most strongly with those born under their corresponding month. When used as a **spell focus** or **enchantment core**, they amplify the wielder’s innate magic. Advanced enchanters also use them to **store spells** or **infuse weapons and armor**, crafting heirlooms of rare power.
 

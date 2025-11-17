@@ -2,17 +2,70 @@
 {"dg-publish":true,"permalink":"/nightvale/summoning/summoning-specialties/"}
 ---
 
+# **Overview of Summoning Specialties**
 
-One of the first things a student will need to do upon entering [[Nightvale/Nightvale Academy\|Nightvale Academy]] is choose a summoning specialty. These are important to knowing one's summoning abilities and becoming one with their summons. Each specialty is unique and comes with its own upsides as well as downsides. Specialties are better known for the abilities they give their summoners. While specialties are supposed to offer the same abilities across the board, some summoners are unique and have an uncanny ability to adapt their specialties abilities to better suit them.
+_The Paths of Bond, Power, and Identity at [[Nightvale/Nightvale Academy\|Nightvale Academy]]_
 
+Upon arriving at Nightvale Academy, every aspiring summoner faces their first—and perhaps most defining—choice: the selection of a **Summoning Specialty**. These disciplines shape how a student channels their magic, how they bond with their summoned companions, and how they grow over the course of their training. While all specialties share the same foundation of summoning artistry, each diverges sharply in philosophy, method, and form of connection.
 
-Every specialty has a different form of connection to their summons. To go along side this each summoner has different words for their specialty, a sort of oath made by each summoner. In taking this oath to follow the words of your specialty, the summoner is gifted with abilities as they progress and show their dedication. In the case of [[Nightvale/Summoning/Specialties/Warg\|Warg]]s, traditional rituals are involved with the gifting of abilities, but to those who may find those unsavory, other specialties tend to get their abilities through dreams. All specialties are ruled by a different deity, but not all deities have specialties. That being said summoners are unlikely to see the deities often.
+A specialty determines not only the strengths and weaknesses a summoner will cultivate, but also the nature of their relationship with the beings they call forth. Some paths favor deep emotional bonds, others ritualistic unity, and still others strategic control or natural flow. No two specialties feel the same—and no two summoners walk their chosen path in quite the same way.
 
+---
 
-Taking the oath for your specialty is rather simple. You say your specialties words at their chosen altar, while in the presence of the head of the specialty. Then you preform the given ritual for your specialty, for most this is the only ritual required. The oath ceremonies take place towards the end of the students third day at the academy. Hopefully this gives the students enough time to become educated on the different specialties before making their decision.
+## **The Fluid Nature of Specialties**
 
+Though specialties grant a unified set of abilities, students often exhibit unique adaptations. Some bond more deeply than their peers, channel power differently, or alter the specialty’s techniques to better suit their temperament. Nightvale instructors note that summoners with strong instincts—or strong wills—can subtly reshape their specialty’s gifts, creating results that stray beyond traditional expectations.
 
-An important thing to note is that summoning specialties are not what matter in team pairing at the academy, that being said multiple of the same specialties can be on the same team. Not all team members need to be unique or different in what they specialize in, having multiple of the same specialty is perfectly fine. **(that being said to avoid game breaking later in the campaign you can only have a singular duplicate per party)**
+---
 
-The specialties are as follows: [[Nightvale/Summoning/Specialties/Collector\|Collector]], [[Nightvale/Summoning/Specialties/Hunter\|Hunter]], [[Nightvale/Summoning/Specialties/Phalanx\|Phalanx]], [[Nightvale/Summoning/Specialties/Saor\|Saor]], and [[Nightvale/Summoning/Specialties/Warg\|Warg]].
+## **Bonds, Oaths, and the Source of Power**
 
+Each specialty maintains a distinct connection style to its summons, ranging from emotional resonance to spiritual autonomy to primal fusion. In alignment with these bonds, every summoner swears a set of **Words**—a small but powerful oath that defines the specialty’s philosophy.
+
+By speaking these Words and dedicating themselves to their path, students gain access to new abilities as they progress through the academy. Most specialties receive these gifts through dream-guided insight from their presiding deity, though the Wargs remain the sole practitioners of ancient rites and ritual empowerments.
+
+Every specialty is governed by a deity tied to its origins. Though these patrons seldom appear—and rarely involve themselves with mortal affairs—their influence shapes each path’s abilities, expectations, and traditions.
+
+---
+
+## **The Oath Ceremony**
+
+A summoner’s formal commitment takes place near the end of their **third day** at the academy, after ample time to study each specialty. The ceremony is simple but sacred:
+
+1. The student stands before the specialty’s chosen altar.
+    
+2. The head of the specialty bears witness.
+    
+3. The student speaks their Words.
+    
+4. A brief ritual—unique to each specialty—seals the oath.
+    
+
+For most students, this is the only ritual they are ever required to perform. Wargs, however, continue to practice their specialty’s ancient rites throughout their training.
+
+---
+
+## **Teams and Specialty Composition**
+
+Although a summoner’s specialty greatly influences their personal growth, it **does not** dictate team placement at the academy. Multiple summoners of the same specialty may serve on a single team, and diversity of specialties is not required.
+
+_For gameplay and campaign balance, a party may include only one instance of any specialty duplicate (e.g., no more than two Hunters, two Saors, etc.)._
+
+## **The Five Specialties of Nightvale**
+
+Students may choose from the following disciplines:
+
+- **[[Nightvale/Summoning/Specialties/Collector\|Collector]]** – Curators of diverse summons and tactical versatility.
+    
+- **[[Nightvale/Summoning/Specialties/Hunter\|Hunter]]** – Agile partners who forge deep, cooperative bonds.
+    
+- **[[Nightvale/Summoning/Specialties/Phalanx\|Phalanx]]** – Stoic summoners protected by powerful guardians.
+    
+- **[[Nightvale/Summoning/Specialties/Saor\|Saor]]** – Nature-touched dreamers who channel the earth through their summons.
+    
+- **[[Nightvale/Summoning/Specialties/Warg\|Warg]]** – Primal ritualists who merge minds and souls with their companions.
+    
+
+Each specialty offers a distinct path, a unique strength, and a different form of connection. Together, they form the backbone of Nightvale’s summoning tradition—and the first step on every student’s journey.
+
+---

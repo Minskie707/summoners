@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/nightvale/summoning/summoning-specialties/"}
 ---
 
+
 # **Overview of Summoning Specialties**
 
 _The Paths of Bond, Power, and Identity at [[Nightvale/Nightvale Academy\|Nightvale Academy]]_

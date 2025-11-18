@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/nightvale/summoning/specialties/hunter/"}
 ---
 
+
 # **Hunter Specialty**
 
 _Summoning Discipline of [[Nightvale/Nightvale Academy\|Nightvale Academy]]_

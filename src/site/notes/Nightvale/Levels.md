@@ -3,8 +3,9 @@
 ---
 
 
-The school’s ([[Nightvale/Nightvale Academy\|Nightvale Academy]]) levels also known as the schools year rankings (ex: freshmen, sophomore, etc.) show a summoner’s personal progression. Failure is not an option, never has a student left the school due to them failing a level. The Academy holds a very tight line when it comes to progression, if you cannot live up to your potential, well no one knows what happens to those who don't. Summoners have reported students leaving when they cant meet the expectation of the headmistress, but no one has ever reported dropping out of the school. Graduation is when students are finally gifted the official title of Summoner, but until then they are referred to as their levels followed by their specialties. (ex: Procyon Hunter, Mizar Warg, etc. after graduating you’re simply a Summoner)
+The school’s ([[Nightvale/Nightvale Academy\|Nightvale Academy]]) levels also known as the schools year rankings (ex: freshmen, sophomore, etc.) show a summoner’s personal progression. Failure is not an option, never has a student left the school due to them failing a level. The Academy holds a very tight line when it comes to progression, if you cannot live up to your potential, well no one knows what happens to those who don't live up to expectations. Summoners have reported students leaving when they cant meet the expectation of the headmistress, but no one has ever reported dropping out of the school. Graduation is when students are finally gifted the official title of Summoner, but until then they are referred to as their levels followed by their specialties. (ex: Procyon Hunter, Mizar Warg, etc. after graduating you’re simply a Summoner)
 
+Once a student accepts the letter of invitation from Nightvale Academy, they accept that there is no failing out of the academy. You either die on the pursuit of becoming a Summoner or graduate to become a Summoner.
 
 ## Procyon:
 

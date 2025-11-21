@@ -58,3 +58,24 @@ This has given rise to:
 Free time is often spent outside designated dormitories, as students navigate the unspoken social landscape shaped by legacy influence. Some seek prestige. Others seek protection. A few simply seek survival.
 
 ---
+
+### **Legacy Privileges**
+
+While Nightvale Academy holds all students to the same standards of discipline and combat readiness, **Legacy heirs are granted a small collection of privileges**—remnants of ancient agreements with powerful summoner houses. Though considered “minor” by the Academy, these benefits provoke no shortage of envy among the student body.
+
+Legacy privileges include, but are not limited to:
+
+- **Private Dormitory Buildings** – Parties containing a Legacy student are housed in secluded townhome-style lodgings rather than the standard shared dormitory halls.
+    
+- **Flexible Academic Leave** – Legacy heirs may request short breaks from classes or lectures without penalty, provided such absences do not obstruct mandatory assessments.
+    
+- **Unrestricted Access** – Legacy students may freely enter the **Nightvale graveyard** and the **private gardens**, areas typically restricted to faculty or upper administration.
+    
+- **Enhanced Meal Selection** – At scheduled mealtimes, Legacy heirs are offered a higher-quality menu curated specifically for their status.
+    
+
+Among Noble Legacies—students who bear both noble lineage and summoner heritage—an additional concession exists: **three [[Nightvale/Challenges\|Challenges]] Refusals** granted per academic cycle. This allowance, created to appease influential families, permits the heir to decline an official combat challenge without consequence.
+
+Despite their limited scope, these privileges mark Legacies as unmistakably distinct within Nightvale’s halls—honored by tradition, scrutinized by peers, and watched closely by [[Nightvale/The Nightvale Council\|The Nightvale Council]].
+
+---

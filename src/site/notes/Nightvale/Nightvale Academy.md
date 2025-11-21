@@ -23,6 +23,8 @@ Students journey to Nightvale by airship, river barge, or caravan, arriving on t
 
 For their own protection, all first-year students are forbidden from leaving the grounds until their training advances.
 
+---
+
 ### ✦ Official Recruitment Letter from Nightvale Academy ✦
 
 **Sealed with the Sigil of the Ilea Family**
@@ -40,3 +42,5 @@ Should you choose to ignore this summons, know that few evade their calling twic
 Signed,  
 **The Nightvale Council**  
 On behalf of **Headmistress Caipra Ilea**
+
+---

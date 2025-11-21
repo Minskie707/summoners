@@ -9,7 +9,7 @@ Once a student accepts the letter of invitation from Nightvale Academy, they acc
 
 ## Procyon:
 
-Lowest on the food chain, Procyon's are first years. Commonly just trying to learn how to handle their newfound power. Their classes might seem the easiest and most redundant in comparison to the course load of the other levels. While in some cases that's true, most believe it to be the opposite. Considering the first years have no real idea on how to handle their new abilities, or how to use their summons effectively some say its the most difficult year. With some years, Procyons have been left to care for an egg when entering the school, it is in their best interest to protect that egg with all it might cost. Because of the eggs, Procyons are not allowed to leave academy grounds or contact outside the walls of the school for the first year.
+Lowest on the food chain, Procyon's are first years. Commonly just trying to learn how to handle their newfound power. Their classes might seem the easiest and most redundant in comparison to the course load of the other levels. While in some cases that's true, most believe it to be the opposite. Considering the first years have no real idea on how to handle their new abilities, or how to use their summons effectively some say its the most difficult year. With some years, Procyons have been left to care for an egg when entering the school, it is in their best interest to protect that egg with all it might cost. Because of the eggs, Procyons are not allowed to leave academy grounds or contact outside the walls of the school for the first year. There are of course exceptions for certain events which allow for the first years to experience holidays and festivals alongside their peers.
 
 
 ## Mizar:

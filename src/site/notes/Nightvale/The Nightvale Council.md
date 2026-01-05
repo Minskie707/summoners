@@ -5,7 +5,7 @@
 
 ## The Nightvale Council
 
-The Nightvale Council is the supreme governing authority overseeing Nightvale Academy and the regulation of summoning within its jurisdiction. Operating without pause throughout the year, the Council exists to ensure that all laws, codices, and arcane restrictions tied to summoning, magical materials, and sanctioned artifacts are upheld as intended.
+The Nightvale Council is the supreme governing authority overseeing [[Nightvale/Nightvale Academy\|Nightvale Academy]] and the regulation of summoning within its jurisdiction. Operating without pause throughout the year, the Council exists to ensure that all laws, codices, and arcane restrictions tied to summoning, magical materials, and sanctioned artifacts are upheld as intended.
 
 ---
 
@@ -36,7 +36,7 @@ While the Council maintains absolute authority over students during their enroll
 
 ### Vega-Level Challenges
 
-The Nightvale Council holds final authority over all **Vega-level Summoning Challenges**. Preliminary concepts and testing are conducted within the lower floors of the Grand Tower, but no challenge proceeds without approval from the Head Council.
+The Nightvale Council holds final authority over all **Vega-level Summoning [[Nightvale/Challenges\|Challenges]]**. Preliminary concepts and testing are conducted within the lower floors of the Grand Tower, but no challenge proceeds without approval from the Head Council.
 
 In most cases, challenges are approved without intervention. However, if a proposed challenge—or the student assigned to it—draws the interest of the Head Council, a formal vote is convened. Such votes may determine:
 

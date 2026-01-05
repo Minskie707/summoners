@@ -32,9 +32,9 @@ Once the foundation of Palonian homes, fire crystals replaced coal and firewood 
 
 _Communicative — Mind, Connection, Voice_
 
-Spirit crystals shimmer with the golden hue of citrine and a faint lavender sheen. They emit a soft hum when attuned to a user’s aura. Two spirit crystals linked by name allow telepathic communication across vast distances, though a message fails if the recipient lacks a corresponding crystal.
+Spirit crystals shimmer with the golden hue of citrine and a faint lavender sheen. They emit a soft hum when attuned to a user’s aura. Two spirit crystals linked by name allow telepathic communication across vast distances, though a message fails if the recipient lacks a corresponding crystal, however they are not limited to a singular link allowing for communication with multiple individuals as long as you have linked crystals before.
 
-They can also store thoughts and mental impressions—short notes of memory or intention—making them invaluable to scholars, diplomats, and guild leaders who meet across continents.
+They can also store thoughts and mental impressions—short notes of memory or intention—making them invaluable to scholars, diplomats, and guild leaders who meet across continents. The crystals also operate as an identification source, holding a bearers name, class, level, profession, as well as defining features; in some cases this information is redacted from view of citizens or students.
 
 ---
 

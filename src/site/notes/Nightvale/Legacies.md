@@ -7,7 +7,7 @@
 
 ### **The Bloodlines of Summoners**
 
-Students born into established **Summoner Households**—colloquially called _Legacies_—carry a [[Character Creation/Notoriety\|Notoriety]] that precedes them. These houses have cultivated their arcane traditions over generations, and their heirs arrive at [[Nightvale/Nightvale Academy\|Nightvale Academy]] expected to uphold that heritage with unwavering precision.
+Students born into prominent established **Summoner Households**—colloquially called _Legacies_—carry a [[Character Creation/Notoriety\|Notoriety]] that precedes them. These houses have cultivated their arcane traditions over generations, and their heirs arrive at [[Nightvale/Nightvale Academy\|Nightvale Academy]] expected to uphold that heritage with unwavering precision.
 
 Legacies are held to a stricter standard than their peers. Their triumphs elevate entire bloodlines; their failures stain names that have endured centuries. Some legacy houses wield near-mythic renown, their sigils whispered throughout the arcane world. Others carry notoriety of a different sort—rivalries, scandals, or ancient grudges that still fester beneath their polished exteriors.
 
@@ -74,7 +74,7 @@ Legacy privileges include, but are not limited to:
 - **Enhanced Meal Selection** – At scheduled mealtimes, Legacy heirs are offered a higher-quality menu curated specifically for their status.
     
 
-Among Noble Legacies—students who bear both noble lineage and summoner heritage—an additional concession exists: **three [[Nightvale/Challenges\|Challenges]] Refusals** granted per academic cycle. This allowance, created to appease influential families, permits the heir to decline an official combat challenge without consequence.
+Among Noble Legacies—students who bear both noble lineage and summoner heritage—an additional concession exists: **three [[Nightvale/Challenges\|Challenges]] Refusals** granted per academic cycle. This allowance, created to appease influential families, permits the heir to decline an official combat challenge without consequence. This is also the ***only*** privilege Noble Legacies receive, with Summoning Legacies holding the rest of the privileges listed above. (If a Summoning Legacy is not also a Noble Legacy they will not receive the challenge refusals)
 
 Despite their limited scope, these privileges mark Legacies as unmistakably distinct within Nightvale’s halls—honored by tradition, scrutinized by peers, and watched closely by [[Nightvale/The Nightvale Council\|The Nightvale Council]].
 

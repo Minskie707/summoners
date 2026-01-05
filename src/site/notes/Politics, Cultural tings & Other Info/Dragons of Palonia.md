@@ -9,6 +9,16 @@ In Palonia, dragons are not the aloof and unchanging paragons of destruction tha
 
 ---
 
+#### Lore and Rarity
+
+Mortals know little of dragons, for they have been absent from Palonia for centuries. Many believe they perished in the Night of Tau; others whisper they retreated to hidden realms, biding their time. Dragonborn are nearly unseen outside the Dry Basin, and living dragons are regarded as myths.
+
+At Nightvale, dragons’ eggs are sometimes brought forth for first year students to take care of as a means to teach them how to care for a summon as grand as a dragon. However the rarity in the years of dragon riders have led many to understand how dangerous it can truly be, as history would prove the death tolls for the dragon rider years double when compared to ordinary school years. The knowledge of how the school acquires these eggs is unknown to the public as well as students, scholars hypothesize of an ancient collection of dragons eggs kept in a static state though nothing of the sort has been proven.
+
+To see a dragon is to look upon the impossible; to ride one is to reshape destiny itself.
+
+---
+
 #### The Dragon Hierarchy
 
 Dragons live within colonies structured after primal instincts of dominance and survival. Each colony is led by a single Alpha, whose rule is determined by ritual combat. A dragon may only claim the mantle of Alpha by defeating the current leader. Should an Alpha die before combat can be held, the colony conducts a bloody ceremonial melee where challengers fight until one emerges victorious. Beneath the Alpha are Betas, who exhibit many of the same dominant traits without direct command, and Omegas, whose role is more submissive but no less vital to the health of the colony.

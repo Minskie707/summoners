@@ -15,7 +15,9 @@ The grounds themselves are rumored to be alive. Locals whisper that the vines up
 
 Most dare not question Nightvale’s affairs, for fear of the headmistress’s wrath. [[Nightvale/The Nightvale Council\|The Nightvale Council]]—an enigmatic governing body—now enacts laws observed even by [[Noble Families, Important People, & Guilds/The Cynan Royal Family\|The Cynan Royal Family]] and its guard. Though Nightvale has never acted in open hostility, its autonomy is unquestioned and uncontested.
 
-**✦ Admissions & Arrival ✦**
+---
+
+#### **✦ Admissions & Arrival ✦**
 
 Each year, on the day following the Feast of the Moon—the first of Nightal—Nightvale accepts a new class of students. Entry is determined by arcane testing of blood samples collected in early spring by cities and kingdoms across the realm. Those deemed worthy receive letters of acceptance two months prior to their arrival.
 

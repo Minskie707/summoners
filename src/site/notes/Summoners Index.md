@@ -94,13 +94,23 @@
 [[Events & Festivals/The Summoning Games\|The Summoning Games]]
 
 ---
-### Noble Families, Important People, & Guilds
+### Noble Families
 [[Noble Families, Important People, & Guilds/The Alphus Noble Family\|The Alphus Noble Family]]
 [[Noble Families, Important People, & Guilds/The Cynan Royal Family\|The Cynan Royal Family]]
 [[Noble Families, Important People, & Guilds/The Ilea Family\|The Ilea Family]]
 [[Noble Families, Important People, & Guilds/The Silvestre Royal Family\|The Silvestre Royal Family]]
 [[Noble Families, Important People, & Guilds/The Citrela Royal Family\|The Citrela Royal Family]]
 [[Noble Families, Important People, & Guilds/Karken Spiros\|Karken Spiros]]
+
+#### Important People/Families
+[[Noble Families, Important People, & Guilds/The Seralien Family\|The Seralien Family]]
+[[Noble Families, Important People, & Guilds/The Shiik Family\|The Shiik Family]]
+
+#### Guilds
+[[Noble Families, Important People, & Guilds/Council & Academy Guilds\|Council & Academy Guilds]]
+[[Noble Families, Important People, & Guilds/Raven Guilds\|Raven Guilds]]
+[[Noble Families, Important People, & Guilds/Rose Guilds\|Rose Guilds]]
+[[Noble Families, Important People, & Guilds/White Rabbit Guilds\|White Rabbit Guilds]]
 
 ---
 ### Politics, Cultural Things & Other Info

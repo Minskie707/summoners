@@ -23,4 +23,4 @@ While deadly when ingested, Ether has value in certain forms of magic. It is eff
 Ether is highly regulated due to its dangerous nature and the unpredictable effects it can have on spells. Most cities outlaw its possession or sale, but in the lawless regions of the Dry Basin, Ether is traded more freely. Even in restricted cities, those in the know can find it—at a price. Depending on potency and demand, Ether costs anywhere from 300 to 1,000 gp per vial.
 
 **Availability:**
-Ether remains scarce even in the magical black market. In its raw form, it is nearly impossible to find in reputable shops, but it circulates among those who dare to experiment with its power.
+Despite being found at the entrances of [[Politics, Cultural tings & Other Info/Dungeons\|Dungeons]], Ether remains scarce even in the magical black market. In its raw form, it is nearly impossible to find in reputable shops, but it circulates among those who dare to experiment with its power.

@@ -23,19 +23,22 @@ While some Mizars tend to get cocky with their slight status elevation, most sti
 
 Polaris tends to be where the majority start getting cocky with their abilities. Growing arrogant and egotistical as most summoners do as they progress. This year gains an exceptionally difficult class, one of magic. Though some might already be magic users, this class will not teach you anything of the ordinary population’s abilities. Polaris also comes with the privilege of taking jobs outside of the academy walls. However it is a privilege, meaning if you don't make it back before your allotted job leave is up you will lose this privilege for a time. The jobs a Polaris wishes to take must also be approved by both a member of staff (professor, deity, etc.), and The Nightvale Council before the student leaves.
 
-
+This is also the first year that allows students to join or form guilds; granted the student has the funds to pay for what is required in the city they wish to form a guild in. When a student shows interest in a guild they are not allowed to sign contracts with any guildhall until their education at Nightvale Academy is completed, however this does not apply to students forming their own guilds so long as the students priority remains with the Academy. For a student to join a guild there is a special process, since students aren't allowed to sign contracts with guilds so long as their a student at the Academy, they may join guilds as honorary members; this basically means they have decided that no matter what they *will* sign a contract with that guild once eligible. Students may elect not to join a guild however parties without fully documented members will not be allowed to run dungeons, which would lock the party out of some of the higher paying jobs.
 
 ## Vega:
 
 Vega is where most gain valuable experience in combat, as this is the year when [[Nightvale/Challenges\|Challenges]] start. Challenges make being a Vega exceptionally difficult and deadly, about half the level makes it to the next year. Though not all challenges are deadly, all are painful.
 
+While students are allowed to join guilds in their Polaris year, its more common to see them allying themselves with guilds during their Vega year. Unfortunately due to the challenges most students close themselves off within their Vega year, this seems to be when many start to align themselves with their party in social standings. 
 
 ## Regulus:
 
 Regulus is the fifth year, still having challenges. However this year comes with, arguably, the most exciting class. One that means to prepare you for the events that Regulus students are to participate in at the end of the year; [[Events & Festivals/The Summoners Gauntlet\|The Summoners Gauntlet]] and [[Events & Festivals/The Summoning Games\|The Summoning Games]]. These events will serve as a test of not only the students abilities as a summoner but the summons abilities and development as well.
 
+For many Regulus students, the focus on their summon turns some of them to a more guarded stance. By this year most students have a mount or an Aetherglide board of their own for ease of transport during jobs. While some students might be lucky enough to not experience this, many tend to change by their Regulus year, turning into someone that their family might not even recognize. 
 
 ## Sirius:
 
 Sirius is the final year. This year is also when the challenges kick up a notch. Due to challenges the graduating class tends to dwindle, becoming much smaller than the first years. Making it to Sirius means you have almost mastered your abilities, some who make it to this level gain some special abilities.
 
+Sirius is a year of pride but also hope for many students, the light at the end of the tunnel you could say. Many graduate to join the Nightvale Council or they turn back to their homes to continue their lives as best they can, a rare few turn to adventuring. As Summoners many graduate students have the pick of whatever profession they may want. The finale year of the Academy is when many shift their focus to better prepare for their chosen professions, in some cases students prepare to rule their home countries.

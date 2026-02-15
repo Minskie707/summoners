@@ -6,7 +6,8 @@
 
 	The following information is for the Summoners Campaign. 
 	**Attention!!** This campaign will have a heavy focus on story building within Palonia, that being said there will still be combat in the campaign itself however this campaign has less of a focus on combat. (Dont worry there will be time to satiate your bloodlust, just not as often as you might be used to)
-	The information provided below is to help you build a character within world, to give you an understanding of the world itself, and to help guide your decisions during the campaign. As the story progresses more information might be given to you here.
+	The information provided below is to help you build a character within world, to give you an understanding of the world itself, and to help guide your decisions during the campaign. As the story progresses more information might be given to you here. Everything written here at start of campaign is considered common knowledge, meaning its what the majority of beings believe. 
+	"The past actually happened but history is only what someone wrote down." - A. Whitney Brown
 	
 ---
 ![9ZnejHkcxn8SaLzjY5psAF.jpg](/img/user/Images/9ZnejHkcxn8SaLzjY5psAF.jpg)

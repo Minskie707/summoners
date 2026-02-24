@@ -10,17 +10,19 @@ The generation of dungeons is relatively unknown, the only common factor that ha
 Due to the dangers that come with them, Dungeons have many rules and regulations. While most countries have individual rules for dungeons there are some base regulations set forth by [[Nightvale/The Nightvale Council\|The Nightvale Council]] long ago, there was once a time where they found interest in the dungeons however they have begun to turn away focusing instead on their Academy and crystals. Dungeon regulations are rather simple:
 
 - A party or individual looking to clear a Dungeon must be a member or an owner of a guild; the only exceptions to this are members of the Nightvale Council, members of the ruling families, and deities if they so wish.
-- Students of Nightvale Academy must be accompanied by at least 1 member of staff; a teacher or a lower ranking member of the council would apply.
+- Students of Nightvale Academy will be allowed to run lower difficulty dungeons if they are not affiliated with a guild, however they must be accompanied by at least 1 member of staff; a teacher or a lower ranking member of the council would apply.
 - Students are restricted from going into red gates, however if the color changes once inside there is an exception.
 - Payments for the dungeons are given out after completion, to be split evenly among the survivors.
-- Dungeons are no law zones, meaning the only rules or laws that matter once inside are the dungeon regulations themselves.
-- 
+- Dungeons are no law zones, meaning the only rules or laws that matter once inside are the dungeon regulations themselves. This is to allow free range of abilities that may otherwise be restricted as it's seen to be more important to clear the dungeons.
+- If a dungeon has proven to be too difficult for a single party to undertake, it may be registered as a collaboration effort with multiple parties involved; gates colored purple or higher are commonly registered as collaboration efforts. It is advised that individuals remain vigilant in these situations as different parties may have different motives.
 - Once inside survival should be your priority (this is more of a suggestion than a regulation)
 
-As mentioned dungeons come in different colors, the colors of the gates can often correlate to their difficulty, however there is not way to tell what lies inside without entering oneself. Dungeons are commonly scouted out before being posted for clearing, this will give a general description of the interior of the dungeon as well as potential information on what enemies one would be dealing with once inside. Below is a list of the colors.
+As mentioned dungeons come in different colors, the colors of the gates can often correlate to their difficulty, however there is not way to tell what lies inside without entering oneself. Dungeons are commonly scouted out before being posted for clearing, this will give a general description of the interior of the dungeon as well as potential information on what enemies one would be dealing with once inside. Unfortunately due to the difficulty of some dungeons they are never scouted, and while uncommon, gates have on the rare occasion changed color once being entered. Below is a list of the colors.
 
 - Gold - the most common gate, difficulty tends to be the easiest of all the gates
 - Green - the second most common gate, tends to be the second easiest
 - Blue - uncommon, has only generated on cliffs, medium difficulty
 - Purple -  rare, hard difficulty, never scouted, most require 2 parties to enter
-- Red - extremely rare, known as lock gates, never scouted, very hard difficulty, often require multiple parties
+- Magenta - rare, hard difficulty, never scouted, always requires 2 or more parties to enter, only generates during a full eclipse
+- Red - very rare, known as lock gates, never scouted, very hard difficulty, often require multiple parties
+- White - legendary, never scouted, nearly impossibly difficulty, requires 3 or more parties, only 2 have ever generated taking some of the strongest to close most that have gone in loosing their lives, students are forbidden from entering a known white gate

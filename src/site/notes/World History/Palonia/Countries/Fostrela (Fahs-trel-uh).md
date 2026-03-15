@@ -20,6 +20,7 @@ The kingdom is ruled by **[[Noble Families, Important People, & Guilds/The Cynan
 - _Climate:_ Cold, rainy.
     
 - _Notable Features:_ Nightvale Academy, Festival of Tau, night markets, religious sites.  
+    
     The capital is a bustling crossroads of culture, knowledge, and trade. Its greatest jewel is **Nightvale Academy**, whose towering halls and arcane wards stand as the pinnacle of magical study. Four great temples serve the realm’s faiths, their spires rising above crowded streets. Vixgate is also famed for its **[[Events & Festivals/Festival of Tau\|Festival of Tau]]**, celebrated in grand scale every year, and for its bustling **night markets**, where everything from rare spell components to strange relics may be purchased. The docks wrap along cliffside harbors, their ships carrying Fostrela’s influence across Palonia.
     ![Vixgate w.legend.jpg](/img/user/Images/Vixgate%20w.legend.jpg)
 

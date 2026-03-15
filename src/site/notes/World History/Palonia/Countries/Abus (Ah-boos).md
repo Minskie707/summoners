@@ -18,6 +18,7 @@ Yet, for all its wealth, Abus does not open its gates freely. Outsiders may pass
 - _Climate:_ Mild, fog-laden.
     
 - _Notable Features:_ Wide roads for goliaths and giants, grand colosseum, the Feast of the Moon.  
+    
     The capital of Abus is a city of size and spectacle. Perpetual fog rolls through its streets, scattering lanternlight into a dreamlike glow. The city is famous for its **colosseum**, where the gods’ chosen clash in ritual combat, where summoners test their skill in [[Events & Festivals/The Summoners Gauntlet\|The Summoners Gauntlet]] & [[Events & Festivals/The Summoning Games\|The Summoning Games]] , and where champions face beasts from across the realms. Though Stextin is considered a city, its breadth and oversized structures give it the feel of a fortress built for titans. Every year, the Silvestres host the exclusive **[[Events & Festivals/Feast of the Moon Festival\|Feast of the Moon Festival]]**, an event whispered about throughout Palonia, attended only by those deemed worthy.
     
 

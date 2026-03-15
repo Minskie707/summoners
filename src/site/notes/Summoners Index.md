@@ -10,7 +10,7 @@
 	"The past actually happened but history is only what someone wrote down." - A. Whitney Brown
 	
 ---
-![9ZnejHkcxn8SaLzjY5psAF.jpg](/img/user/Images/9ZnejHkcxn8SaLzjY5psAF.jpg)
+![9ZnejHkcxn8SaLzjY5psAF.jpg|697](/img/user/Images/9ZnejHkcxn8SaLzjY5psAF.jpg)
 
 ---
 ### Character Creation

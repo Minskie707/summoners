@@ -20,6 +20,7 @@ Estrye is ruled by **[[Noble Families, Important People, & Guilds/The Citrela Ro
 - _Climate:_ Hot, dewy.
     
 - _Notable Features:_ Queen’s Road, Crownbranch Hold, largest Midsummer festival.  
+    
     The jewel of Estrye, Nagos lies at the end of the **Queen’s Road**, the only passage leading through the mountains to its peninsula. Here stands **Crownbranch Hold**, the living fortress-palace of the Citrela Royal Family. Its towers entwine with tree limbs and ivy, as though grown from the jungle itself. The city is famed for its **[[Events & Festivals/Grand Midsummer Festival\|Grand Midsummer Festival]]**, where a 20-foot maypole rises above streets lit by lanterns of gold and green.
     
 

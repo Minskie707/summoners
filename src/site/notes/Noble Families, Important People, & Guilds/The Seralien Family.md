@@ -7,8 +7,13 @@ The Seralien Family has been upheld as a prominent name in Palonia, brought to p
 
 Due to how long the Seralien name has been around their family has grown quite large, and has been spread to different families as well. While they might not hold power in a political sense their name still carries much more weight than others, being connected to a Seralien is to be connected to real power so not many are allowed to get close. However their generosity and kindness are left unmatched by other families in power, often times a Seralien will be regarded as 'a light brightening a room'. 
 
+In recent years many tragedies have befallen the Seralien family, only weeks after loosing the elder's of the Seralien line to old age the family also lost its current heads; leaving their eldest child Arvad as the head of the household. After losing their parents Lord Callahan Seralien and Lady Davina Seralien in a tragic fire at their estate in Arcstead, Arvad was immediately recognized as the living heir as Lord Callahan's siblings had passed years prior. At the age of 18 years he was tasked with taking care of his mass of siblings, the household, the business, as well as his young cousins. The community seemed to rally for them, offering support and aid where they could. Neighbors would bring meals, help with laundry and cleaning duties, and even assisting in the childcare for the younger ones.
+
+As the years passed and Arvad got a handle on running his newfound estate their neighbors decided to draw back some to allow the family to grow; although their elderly neighbor still offers to watch the younger ones. Now at 22 years, Arvad mans the temple as the head priest, his younger siblings and cousins helping out where they can.
+
 ### Arvad Seralien
 
+Sir Arvad Seralien, currently 22 years old and the youngest head priest to date. Although he was once set to become a member of the Queensguard, he abstained from the offer once his siblings were left to his care. A decision that never sat right with his sister Ena, she always argued that Arvad needed to think of himself for once. Arvad is a master Paladin of Atia, those who trained along side him hold him in high respect out of a primal fear of his abilities on the battlefield.
 
 ### Ena Seralien
 
@@ -30,3 +35,11 @@ Due to how long the Seralien name has been around their family has grown quite l
 
 ### Ezra Seralien
 
+
+### Hayden Seralien
+
+
+### Sienna Seralien
+
+
+### Adler Seralien

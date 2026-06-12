@@ -58,7 +58,7 @@
 ---
 ### Deities, Myths & Lore
 [[Deities, Myths & Lore/General Information\|General Information]]
-[[Deities, Myths & Lore/Adone\|Adone]]
+[[Deities, Myths & Lore/Adone\|Deities, Myths & Lore/Adone]]
 [[Deities, Myths & Lore/Aella\|Aella]]
 [[Deities, Myths & Lore/Amros\|Amros]]
 [[Deities, Myths & Lore/Aster\|Aster]]
@@ -66,8 +66,8 @@
 [[Deities, Myths & Lore/Calous\|Calous]]
 [[Deities, Myths & Lore/Cilleth\|Cilleth]]
 [[Deities, Myths & Lore/Iana\|Iana]]
-[[Deities, Myths & Lore/Iros\|Iros]]
-[[Deities, Myths & Lore/Kemara\|Kemara]]
+[[Deities, Myths & Lore/Iros\|Deities, Myths & Lore/Iros]]
+[[Deities, Myths & Lore/Kemara\|Deities, Myths & Lore/Kemara]]
 [[Deities, Myths & Lore/Nutuna\|Nutuna]]
 [[Deities, Myths & Lore/Nythar\|Nythar]]
 [[Deities, Myths & Lore/Rytar\|Rytar]]

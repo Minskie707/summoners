@@ -18,7 +18,7 @@ In the earliest ages, mortals revered him as a necessary part of life’s balanc
 
 Calous is father to **[[Deities, Myths & Lore/Rytar\|Rytar]], God of War**, the twins **[[Deities, Myths & Lore/Nythar\|Nythar]], God of Glory**, and **[[Deities, Myths & Lore/Nutuna\|Nutuna]], Goddess of Youth**, and their youngest daughter, **[[Deities, Myths & Lore/Aella\|Aella]], Goddess of the Moon**. He gave to each a fragment of mortality, ensuring that even divinity would know the limits of time and loss. Rytar inherited the weight of consequence, Nythar the pride of legacy, Nutuna the frailty of youth, and Aella the fleeting beauty of light.
 
-He is believed to share ancient blood with **[[Deities, Myths & Lore/Kemara\|Kemara]], Goddess of Sleep**, and **[[Deities, Myths & Lore/Vearis\|Vearis]], God of the Skies**, though none have ever confirmed the truth. His essence is felt in their domains—stillness, silence, and the eternal expanse between moments.
+He is believed to share ancient blood with **[[Deities, Myths & Lore/Kemara\|Deities, Myths & Lore/Kemara]], Goddess of Sleep**, and **[[Deities, Myths & Lore/Vearis\|Vearis]], God of the Skies**, though none have ever confirmed the truth. His essence is felt in their domains—stillness, silence, and the eternal expanse between moments.
 
 Calous’s **symbols are the ouroboros and the belladonna**, each representing the endless cycle of death feeding life, and the beauty of what can end. His followers often wear rings or talismans shaped in his sigil, a reminder that the end of one thing sustains the beginning of another.
 

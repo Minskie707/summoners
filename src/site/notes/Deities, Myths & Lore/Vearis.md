@@ -16,7 +16,7 @@ Vearis, God of the Skies, reigns over the boundless heavens where wind and light
 
 Vearis is revered as both steadfast and contemplative, a god whose domain stretches across all horizons yet whose heart remains tethered to the sea below. His love for Amros is a tale sung by sailors and sky-priests alike, symbolizing the eternal dance between cloud and wave. Though neither he nor his wife governs love, mortals pray to them in its name, believing their union proof that even gods of storm and tide can find serenity together.
 
-Among scholars of the divine, whispers persist that Vearis may share blood with [[Deities, Myths & Lore/Calous\|Calous]], God of Death, and [[Deities, Myths & Lore/Kemara\|Kemara]], Goddess of Sleep. Though unproven, these rumors stem from the stillness that sometimes overtakes his storms—the quiet between gusts where sky and death seem to touch. Vearis himself neither confirms nor denies such lineage, preferring silence to speculation.
+Among scholars of the divine, whispers persist that Vearis may share blood with [[Deities, Myths & Lore/Calous\|Calous]], God of Death, and [[Deities, Myths & Lore/Kemara\|Deities, Myths & Lore/Kemara]], Goddess of Sleep. Though unproven, these rumors stem from the stillness that sometimes overtakes his storms—the quiet between gusts where sky and death seem to touch. Vearis himself neither confirms nor denies such lineage, preferring silence to speculation.
 
 His symbols, clouds and sunrays, represent renewal and revelation: the promise that no storm, however fierce, endures forever. His presence is felt in the clearing of thunderheads, in the first breath of wind before dawn, and in the soaring freedom of flight.
 

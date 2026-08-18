@@ -14,7 +14,7 @@ As the final chime echoes, the wards ignite. Pale blue runes etched deep into th
 
 And dawn does not come for all.
 
-No one who has remained inside past the tolling of the bells has ever returned. None save for Aster, who refuses to speak of what stirs in the midnight dark. Whispers among students speak of silent footsteps, a cold breath on the neck, and books that bleed when opened. But such rumors are rarely repeated above a whisper. Fear has a way of rooting in stone.
+No one who has remained inside past the tolling of the bells has ever returned. None save for Aster and his companion, who refuses to speak of what stirs in the midnight dark. Whispers among students speak of silent footsteps, a cold breath on the neck, and books that bleed when opened. But such rumors are rarely repeated above a whisper. Fear has a way of rooting in stone.
 
 To add to its eerie reputation, the Archives houses a place few dare even glance toward—the **Forbidden Section**. Set behind thick iron bars reinforced with layered runes, its entry gate glows faintly at all hours, trembling with quiet magical energy. Wards slumber beneath the metal floor, ready to awaken should any hand or spell attempt intrusion. Through the bars, one can glimpse a few shelves of decaying scrolls, bound in leather blackened with age, and beyond them, a dark stone stairwell descending into shadow. No light touches the depths below. What lies beneath remains unknown, and unspoken.
 

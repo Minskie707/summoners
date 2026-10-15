@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crystals-and-magic/magic-history-and-general-information/"}
+{"dg-publish":true,"permalink":"/crystals-and-magic/magic-history-and-general-information/","dg-note-properties":{}}
 ---
 
 

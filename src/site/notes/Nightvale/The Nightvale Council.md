@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/the-nightvale-council/"}
+{"dg-publish":true,"permalink":"/nightvale/the-nightvale-council/","dg-note-properties":{}}
 ---
 
 

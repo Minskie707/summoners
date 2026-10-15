@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/nutuna/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/nutuna/","dg-note-properties":{}}
 ---
 
 

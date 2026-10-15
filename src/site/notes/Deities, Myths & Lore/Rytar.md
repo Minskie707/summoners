@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/rytar/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/rytar/","dg-note-properties":{}}
 ---
 
 

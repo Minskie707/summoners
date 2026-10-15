@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-creation/character-creation/"}
+{"dg-publish":true,"permalink":"/character-creation/character-creation/","dg-note-properties":{}}
 ---
 
 

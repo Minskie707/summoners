@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/cilleth/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/cilleth/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history/palonia/countries/the-dry-basin/"}
+{"dg-publish":true,"permalink":"/world-history/palonia/countries/the-dry-basin/","dg-note-properties":{}}
 ---
 
 

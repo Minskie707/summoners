@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crystals-and-magic/magic-types/"}
+{"dg-publish":true,"permalink":"/crystals-and-magic/magic-types/","dg-note-properties":{}}
 ---
 
 

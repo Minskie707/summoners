@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/the-curse-of-perception/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/the-curse-of-perception/","dg-note-properties":{}}
 ---
 
 ## The Legend of The Curse of Perception

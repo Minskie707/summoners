@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/atia/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/atia/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/ether/"}
+{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/ether/","dg-note-properties":{}}
 ---
 
 To most, Ether is considered "corrupt liquid starlight," though there is some truth to this. In actuality, Ether is a dark, dangerous mimicry of the rare, ancient magical component known as *[[Politics, Cultural tings & Other Info/Liquid Starlight\|Liquid Starlight]]*. True Liquid Starlight is a silvery, glowing droplet that, according to legend, falls directly from the heavens—a gift from the stars themselves. Ether, however, is an entirely different substance, with a dark, viscous appearance streaked with eerie greenish-teal undertones. Unlike Liquid Starlight, which is mythically pure, Ether corrupts whatever it touches.

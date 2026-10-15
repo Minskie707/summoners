@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/velo/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/velo/","dg-note-properties":{}}
 ---
 
 

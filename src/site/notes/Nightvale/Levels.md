@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/levels/"}
+{"dg-publish":true,"permalink":"/nightvale/levels/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/summoning/specialties/phalanx/"}
+{"dg-publish":true,"permalink":"/nightvale/summoning/specialties/phalanx/","dg-note-properties":{}}
 ---
 
 

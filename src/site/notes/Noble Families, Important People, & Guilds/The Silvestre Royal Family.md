@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/the-silvestre-royal-family/"}
+{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/the-silvestre-royal-family/","dg-note-properties":{}}
 ---
 
 

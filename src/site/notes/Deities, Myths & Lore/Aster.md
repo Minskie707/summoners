@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/aster/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/aster/","dg-note-properties":{}}
 ---
 
 

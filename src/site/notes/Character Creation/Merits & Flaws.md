@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-creation/merits-and-flaws/"}
+{"dg-publish":true,"permalink":"/character-creation/merits-and-flaws/","dg-note-properties":{}}
 ---
 
 

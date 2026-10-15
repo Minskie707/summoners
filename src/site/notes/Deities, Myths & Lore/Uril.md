@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/uril/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/uril/","dg-note-properties":{}}
 ---
 
 

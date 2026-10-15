@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/the-archives/"}
+{"dg-publish":true,"permalink":"/nightvale/the-archives/","dg-note-properties":{}}
 ---
 
 **The Archives of Nightvale**

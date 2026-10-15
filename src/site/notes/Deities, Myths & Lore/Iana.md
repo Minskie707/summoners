@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/iana/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/iana/","dg-note-properties":{}}
 ---
 
 

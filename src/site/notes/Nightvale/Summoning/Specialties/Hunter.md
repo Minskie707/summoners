@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/summoning/specialties/hunter/"}
+{"dg-publish":true,"permalink":"/nightvale/summoning/specialties/hunter/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history/the-night-of-tau/"}
+{"dg-publish":true,"permalink":"/world-history/the-night-of-tau/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/dungeons/"}
+{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/dungeons/","dg-note-properties":{}}
 ---
 
 

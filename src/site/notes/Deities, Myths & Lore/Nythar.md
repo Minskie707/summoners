@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/nythar/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/nythar/","dg-note-properties":{}}
 ---
 
 

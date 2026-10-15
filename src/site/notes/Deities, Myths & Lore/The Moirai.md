@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/the-moirai/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/the-moirai/","dg-note-properties":{}}
 ---
 
 ## The Myth of The Moirai

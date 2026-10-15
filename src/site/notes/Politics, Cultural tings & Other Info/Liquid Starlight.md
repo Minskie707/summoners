@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/liquid-starlight/"}
+{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/liquid-starlight/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/etherling/"}
+{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/etherling/","dg-note-properties":{}}
 ---
 
 

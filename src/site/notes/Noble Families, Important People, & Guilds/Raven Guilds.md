@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/raven-guilds/"}
+{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/raven-guilds/","dg-note-properties":{}}
 ---
 

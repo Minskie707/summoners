@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/aella/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/aella/","dg-note-properties":{}}
 ---
 
 

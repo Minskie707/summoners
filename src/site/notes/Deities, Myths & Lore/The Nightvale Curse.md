@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/the-nightvale-curse/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/the-nightvale-curse/","dg-note-properties":{}}
 ---
 
 

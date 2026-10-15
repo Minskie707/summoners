@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/sotar/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/sotar/","dg-note-properties":{}}
 ---
 
 

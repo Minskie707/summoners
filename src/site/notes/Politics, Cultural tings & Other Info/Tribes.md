@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/tribes/"}
+{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/tribes/","dg-note-properties":{}}
 ---
 
 

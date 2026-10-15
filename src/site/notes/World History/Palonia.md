@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history/palonia/"}
+{"dg-publish":true,"permalink":"/world-history/palonia/","dg-note-properties":{}}
 ---
 
 

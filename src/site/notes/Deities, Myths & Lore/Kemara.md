@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/kemara/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/kemara/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history/keatara/"}
+{"dg-publish":true,"permalink":"/world-history/keatara/","dg-note-properties":{}}
 ---
 
 

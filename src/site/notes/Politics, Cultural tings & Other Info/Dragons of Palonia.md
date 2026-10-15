@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/dragons-of-palonia/"}
+{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/dragons-of-palonia/","dg-note-properties":{}}
 ---
 
 

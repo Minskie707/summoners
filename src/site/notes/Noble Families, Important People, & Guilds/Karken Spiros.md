@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/karken-spiros/"}
+{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/karken-spiros/","dg-note-properties":{}}
 ---
 
 

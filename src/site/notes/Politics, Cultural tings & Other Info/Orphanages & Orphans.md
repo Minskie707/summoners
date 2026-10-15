@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/orphanages-and-orphans/"}
+{"dg-publish":true,"permalink":"/politics-cultural-tings-and-other-info/orphanages-and-orphans/","dg-note-properties":{}}
 ---
 
 

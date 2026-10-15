@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/summoning/specialties/saor/"}
+{"dg-publish":true,"permalink":"/nightvale/summoning/specialties/saor/","dg-note-properties":{}}
 ---
 
 

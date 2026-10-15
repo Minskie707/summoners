@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history/palonia/countries/estrye-es-tray/"}
+{"dg-publish":true,"permalink":"/world-history/palonia/countries/estrye-es-tray/","dg-note-properties":{}}
 ---
 
 

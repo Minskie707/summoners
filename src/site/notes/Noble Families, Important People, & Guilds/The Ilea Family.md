@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/the-ilea-family/"}
+{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/the-ilea-family/","dg-note-properties":{}}
 ---
 
 ### ✦ The Ilea Family ✦

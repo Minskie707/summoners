@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/the-shiik-family/"}
+{"dg-publish":true,"permalink":"/noble-families-important-people-and-guilds/the-shiik-family/","dg-note-properties":{}}
 ---
 
 

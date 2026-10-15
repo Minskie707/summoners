@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/adone/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/adone/","dg-note-properties":{}}
 ---
 
 

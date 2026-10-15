@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/calous/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/calous/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/summoning/specialties/collector/"}
+{"dg-publish":true,"permalink":"/nightvale/summoning/specialties/collector/","dg-note-properties":{}}
 ---
 
 

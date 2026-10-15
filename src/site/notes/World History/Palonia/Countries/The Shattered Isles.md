@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history/palonia/countries/the-shattered-isles/"}
+{"dg-publish":true,"permalink":"/world-history/palonia/countries/the-shattered-isles/","dg-note-properties":{}}
 ---
 
 

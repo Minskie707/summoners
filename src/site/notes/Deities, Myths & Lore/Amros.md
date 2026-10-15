@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/amros/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/amros/","dg-note-properties":{}}
 ---
 
 

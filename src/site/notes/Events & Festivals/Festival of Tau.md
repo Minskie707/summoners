@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/events-and-festivals/festival-of-tau/"}
+{"dg-publish":true,"permalink":"/events-and-festivals/festival-of-tau/","dg-note-properties":{}}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-history/palonia/countries/abus-ah-boos/"}
+{"dg-publish":true,"permalink":"/world-history/palonia/countries/abus-ah-boos/","dg-note-properties":{}}
 ---
 
 

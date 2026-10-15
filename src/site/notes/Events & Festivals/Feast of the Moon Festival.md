@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/events-and-festivals/feast-of-the-moon-festival/"}
+{"dg-publish":true,"permalink":"/events-and-festivals/feast-of-the-moon-festival/","dg-note-properties":{}}
 ---
 

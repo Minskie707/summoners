@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/iros/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/iros/","dg-note-properties":{}}
 ---
 
 

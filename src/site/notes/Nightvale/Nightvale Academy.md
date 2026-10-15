@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/nightvale-academy/"}
+{"dg-publish":true,"permalink":"/nightvale/nightvale-academy/","dg-note-properties":{}}
 ---
 
 

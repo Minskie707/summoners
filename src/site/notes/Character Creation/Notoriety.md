@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-creation/notoriety/"}
+{"dg-publish":true,"permalink":"/character-creation/notoriety/","dg-note-properties":{}}
 ---
 
 **NOTORIETY:**

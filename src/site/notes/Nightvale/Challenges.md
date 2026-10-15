@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/challenges/"}
+{"dg-publish":true,"permalink":"/nightvale/challenges/","dg-note-properties":{}}
 ---
 
 

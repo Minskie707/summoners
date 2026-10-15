@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/deities-myths-and-lore/general-information/"}
+{"dg-publish":true,"permalink":"/deities-myths-and-lore/general-information/","dg-note-properties":{}}
 ---
 
 

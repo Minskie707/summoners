@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nightvale/legacies/"}
+{"dg-publish":true,"permalink":"/nightvale/legacies/","dg-note-properties":{}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/events-and-festivals/calendar/"}
+{"dg-publish":true,"permalink":"/events-and-festivals/calendar/","dg-note-properties":{}}
 ---
 
 

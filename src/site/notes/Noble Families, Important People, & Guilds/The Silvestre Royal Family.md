@@ -40,7 +40,7 @@ It was Onda who designed the **Celestial Forges of Abus**, revolutionizing the k
 
 ### 🜃 **Princess Sira Silvestre**
 
-**The Adopted Star, Heart of Stextin**
+**"The Adopted Star", Heart of Stextin**
 
 Though not born of royal blood, **Princess Sira Silvestre** has captured the hearts of Abus like few ever could. Discovered in the orphanage of Stextin and adopted on her sixth name day, she was brought into the fold of the Silvestres not as a symbol, but as a daughter—beloved, chosen, and cherished.
 
@@ -50,7 +50,7 @@ Now seventeen and enrolled at [[Nightvale/Nightvale Academy\|Nightvale Academy]]
 
 ### 🜂 **Princess Calisto Silvestre**
 
-**The Winter Heir, Daughter of Stone and Flame**
+**"The Winter Heir", Daughter of Stone and Flame**
 
 **Calisto Silvestre**, daughter of Breixo and Onda, is a study in stillness and storm. At sixteen, she already commands a room with her presence—eyes like frozen seas, hair the color of fallen snow, and horns curling like obsidian crowns from her brow. Where others see beauty, she sees burden; where others praise her lineage, she forges her own purpose.
 
@@ -60,7 +60,7 @@ Set to attend Nightvale in the coming year, Calisto's aspirations are whispered 
 
 ### 🜄 **Prince Leon Silvestre**
 
-**The Shrouded Flame, Son of Frost and Fury**
+**"The Shrouded Flame", Son of Frost and Fury**
 
 The youngest of the Silvestre line, **Prince Leon** is a contradiction in flesh: the pale blue skin of his Goliath heritage paired with the frame of one yet to grow into it. Fourteen years old and often found in quiet corners with ink-stained fingers and a furrowed brow, Leon is thoughtful, tempestuous, and endlessly observant.
 

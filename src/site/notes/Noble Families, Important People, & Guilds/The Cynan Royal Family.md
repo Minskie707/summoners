@@ -5,6 +5,8 @@
 
 ### **The Cynan Royal Family**
 
+**The Gilded Bloodline**
+
 From their ivory throne in Vixgate, the Cynan bloodline rules the kingdom of [[World History/Palonia/Countries/Fostrela (Fahs-trel-uh)\|Fostrela (Fahs-trel-uh)]] with gilded precision and a blade just out of sight. Once a branch of the ancient Aurelian line, the Cynans rose to prominence on [[World History/The Night of Tau\|The Night of Tau]], and have since become the face of [[World History/Palonia\|Palonia]]’s perfection. No family is more polished in appearance—or more ruthless in private.
 
 The Cynans thrive on power, image, and legacy. Their household, now formally recognized as a Summoner bloodline, is one of influence and expectation. To be born a Cynan is to be born into spectacle—every hair, every word, every misstep a matter of state. Among nobles and commoners alike, their name is often spoken like a ward or a weapon, wielded to command respect or escape consequence.
@@ -12,6 +14,8 @@ The Cynans thrive on power, image, and legacy. Their household, now formally rec
 Their motto is unwritten, but well-known: _“Blood Above All.”_
 
 ### **King Balor Mansfeild Cynan**
+
+**The Iron King**
 
 There are kings born of prophecy, and there are kings born of aftermath. Balor Mansfeild Cynan, the first of his name, was never meant to rule—but the gods have never been sentimental about bloodlines. When his elder brother perished and the crown fell to him, Balor did not flinch. He stepped into legacy with clenched fists and a gaze that could cut through steel.
 
@@ -22,6 +26,8 @@ Balor is a man who values legacy over love, dominion over desire. Yet, beneath t
 He rules from Vixgate not as a man, but as a symbol—perfect posture, perfect silence, perfect control. And yet, in his stillness lies a terrible truth: even kings cannot bury the past. They simply build their empires over it.
 
 ### **Queen Calla Cynan**
+
+**The Veiled Queen**
 
 Not all queens are born beneath gilded ceilings. Some rise from silk-wrapped shadows, cloaked in whispers and strange winds. Calla Cynan—once Callista Vasilius, daughter of nameless merchants from the far isles of Estrye—is a queen whose presence rewrote the tides of a kingdom.
 
@@ -35,6 +41,8 @@ Calla Cynan is a queen wrapped in riddles, a mirror to a past no one dares uncov
 
 ### **Prince Alden Cynan**
 
+**The Crown of Stone**
+
 They call him _the Crown of Stone_—a prince carved from silence and duty, raised beneath the shadow of a throne he never asked for but will never forsake. Prince Alden Cynan, heir to Fostrela, wears the Cynan name like armor—impeccable, untouchable, and heavy with expectation.
 
 At twenty-one, he already commands the City Watch, his orders followed with the same quiet reverence he offers his family. His gaze is steady, his words scarce, and his temper—when it rises—echoes the fury of his father, though tempered by his mother’s restraint.
@@ -44,6 +52,8 @@ But behind the sculpted mask of nobility, Alden watches the world with haunted c
 He carries the weight of a kingdom and the weight of his silence in equal measure. And though he may one day rule Fostrela, it is not the crown that defines him—it is the secrets he guards, and the sacrifice he never speaks aloud.
 
 ### **Princess Arrabella Cynan**
+
+**The Gilded Thorn, "The Jeweled Viper"**
 
 Not all roses are meant to be touched. Some bleed poison beneath their bloom.
 
@@ -60,6 +70,8 @@ There are rumors—of a divine blessing from [[Deities, Myths & Lore/Iana\|Iana]
 Princess Arrabella does not beg for love. She demands loyalty, inspires fear, and if she cannot have your heart—she’ll ensure no one else ever will.
 
 ### **Princess Ophelia Cynan**
+
+**"The Frostborn Star"**
 
 Some stars do not wait to rise—they are born mid-fall, already burning.
 

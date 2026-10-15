@@ -13,7 +13,7 @@ While among the wealthiest of the royal bloodlines, the Citrelas are known acros
 
 ### Queen Nyssa Citrela
 
-**“The Hearth of Estrye”**  
+**The Hearth of Estrye**  
 
 Crowned at just nineteen upon the untimely fall of her mother, **Queen Nyssa Citrela** inherited not only a throne but a fractured realm. Beset by raiders along the borderlands and chaos from island outposts, her people cried out for hope—and she answered. Through tireless diplomacy, coordinated defenses, and sweeping public works, Nyssa has woven Estrye into a resilient and unified land. Beloved by her people, she is known to walk the streets without escort, speaking to bakers and builders alike. Where others rule with fear or fire, Nyssa rules with **compassion and conviction**.
 

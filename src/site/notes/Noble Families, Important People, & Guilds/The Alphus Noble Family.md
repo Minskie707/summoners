@@ -21,7 +21,7 @@ Perched atop the windswept cliffs of a slumbering volcano, their gilded estate i
 
 ### Grand Duke Askari Alphus
 
-**"The Gilded Whisper"**
+**The Gilded Whisper**
 
 None remember a time before **Askari Alphus** ruled the Dry Basin—some even claim he remembers the sky before it cracked. Cloaked in opulence and silence, the Grand Duke is a man of commanding presence, one who rarely speaks but never goes unheard. His gaze is enough to silence a hall, and his name enough to halt a rebellion. Where others wield armies, Askari wields _awe_.
 
@@ -31,7 +31,7 @@ Though his son now holds the reins of daily rule, Askari’s influence lingers i
 
 ### Duke Dirie Alphus
 
-**"The Burned Falcon"**
+**The Burned Falcon**
 
 If Askari is the legacy of Alphus, then **Dirie Alphus** is its future—and its curse. Calculating and merciless, Dirie has long acted as the _true_ ruler of the Dry Basin, manipulating trade routes, rewriting laws, and crushing dissent with chilling precision. His smile is a blade; his silence, a sentence.
 
@@ -41,7 +41,7 @@ Though once praised for modernizing Swiftstone, his heart has blackened with yea
 
 ### Duchess Mirella Alphus
 
-**"The Flame of Swiftstone"**
+**The Flame of Swiftstone**
 
 Where Dirie brings dread, **Mirella Alphus** once brought light. Called by the people _the Flame of Swiftstone_, Mirella was the Dry Basin’s pride: radiant, regal, and strong of will. Though known for her beauty, it was her strength, compassion, and strategic mind that truly captured the hearts of her people.
 
@@ -53,7 +53,7 @@ Her absence haunts Swiftstone, and some say her name still echoes through its vo
 
 ### Prince Alanis Alphus
 
-**"The Desert Viper"**
+**The Desert Viper**
 
 **Alanis Alphus**, firstborn of the house and heir in name, is a creature of polished charm and serpentine cunning. At twenty-one, he has mastered the subtle art of politics, all smiles and flattery in public, yet sharp-tongued and callous behind closed doors. He walks with pride, dresses with extravagance, and speaks as if every word were a decree.
 

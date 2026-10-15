@@ -25,4 +25,4 @@ As mentioned dungeons come in different colors, the colors of the gates can ofte
 - Purple -  rare, hard difficulty, never scouted, most require 2 parties to enter
 - Magenta - rare, hard difficulty, never scouted, always requires 2 or more parties to enter, only generates during a full eclipse
 - Red - very rare, known as lock gates, never scouted, very hard difficulty, often require multiple parties
-- White - legendary, never scouted, nearly impossibly difficulty, requires 3 or more parties, only 2 have ever generated taking some of the strongest to close most that have gone in loosing their lives, students are forbidden from entering a known white gate
+- White - legendary, never scouted, nearly impossible difficulty, requires 3 or more parties, only 2 have ever generated taking some of the strongest to close; most that have gone in loosing their lives, students are forbidden from entering a known white gate

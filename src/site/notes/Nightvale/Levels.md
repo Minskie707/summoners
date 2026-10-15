@@ -94,16 +94,3 @@
 **Core goals:** Mastery and profession specialization. Final challenges intensify; the cohort is noticeably reduced.  
 **Curriculum highlights:** Leadership in summoner command, diplomatic summoning (summoning in courts/war councils), final thesis (a culminating ritual or major public demonstration).  
 **Privileges & outcomes:** Graduation can lead to positions on the **Nightvale Council**, high-level guild offers, or roles in courts across **[[World History/Palonia\|Palonia]]**. A few choose adventuring, others political life. Some use their final year to prepare for rule or to refurbish family houses. Palonia
-
----
-
-## Events & Sample Mechanics (quick reference)
-
-- **Procyon Showcase (Year 1):** Performance/Arcana/Deception/Animal Handling checks. Social rewards: patronage, small magical trinkets, or favor tokens.
-    
-- **Challenges (Years 4–6):** Multi-format tests; fatalities possible. Use variable CRs and nonlethal consequences. Consider saving throw consequences (long-term injuries, curses, or reputation loss).
-    
-- **Gauntlet & Games (Year 5):** Tournament structure: preliminary rounds, elimination, and judged finale. Scoring mixes objective success and style/performance.
-    
-
----

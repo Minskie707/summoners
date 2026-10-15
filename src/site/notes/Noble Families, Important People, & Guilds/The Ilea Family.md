@@ -8,6 +8,8 @@ _Of veils, power, and silent roots_
 
 The **Ilea family** appeared as mysteriously as the Academy itself—emerging on the **[[World History/The Night of Tau\|The Night of Tau]]** with their ancestral estate in tow. No records speak of their lineage, and no scholar claims knowledge of their homeland. They govern [[Nightvale/Nightvale Academy\|Nightvale Academy]] as its rulers, protectors, and architects. The matriarch, **Headmistress Caipra Ilea**, arrived alone, but her children—Dras, Zean, and Kwyn—have since walked the academy halls, seemingly born of the academy’s very breath.
 
+---
+
 #### Caipra Ilea — _The Headmistress_
 
 Rare is the soul who hears her voice. Rarer still is the one who sees her face.
@@ -36,7 +38,7 @@ He is known to linger on the periphery of gatherings, rarely alone, often watchi
 
 ---
 
-#### Kwyn Ilea — _The Moonlit Heiress_
+#### Kwyn Ilea — _"The Moonlit Heiress"_
 
 Youngest of the Ilea children, **Kwyn** is the Academy’s enigma wrapped in beauty. Her presence is rare, her expressions rarer still. Her skin is said to shimmer like starlight beneath moon-kissed skies, earning her the title “Beauty of [[World History/Palonia/Countries/Fostrela (Fahs-trel-uh)\|Fostrela (Fahs-trel-uh)]].” Timid in speech and movement, she carries the weight of quiet nobility, always observed but seldom known.
 

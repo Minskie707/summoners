@@ -38,7 +38,7 @@
 
 - _Egg Custody (optional):_ In some years Procyons are entrusted with an egg upon arrival — a test of protection, patience, and instinct. Failure to protect the egg has social and disciplinary consequences.
     
-- _[[Events & Festivals/The Procyon Showcase\|The Procyon Showcase]]:_ A public demonstration of first-year promise presented to Palonia’s elite. This new Showcase is attended by Count [[Noble Families, Important People, & Guilds/Karken Spiros\|Karken Spiros]] and other patrons — it is a rare chance for sponsorship and employment prospects. Players must present creativity over raw power (the novice’s advantage: improvisation and roleplay). Count Karken Spiros
+- _[[Events & Festivals/The Procyon Showcase\|The Procyon Showcase]]:_ A public demonstration of first-year promise presented to Palonia’s elite. This new Showcase is attended by Count [[Noble Families, Important People, & Guilds/Karken Spiros\|Karken Spiros]] and other patrons — it is a rare chance for sponsorship and employment prospects. Students must present creativity over raw power (the novice’s advantage: improvisation and roleplay).
     
 
 ---
@@ -83,7 +83,7 @@
 - _The Summoner’s Gauntlet_ — a solo or duo gauntlet designed to test a summoner’s personal skill and their summon’s capabilities.
     
 - _The Summoning Games_ — an academy-wide tournament that tests party coordination and summon utility.  
-    **Personal changes:** Many students become hardened; family relationships may strain, alliances polarize, and students increasingly specialize.
+**Personal changes:** Many students become hardened; family relationships may strain, alliances polarize, and students increasingly specialize.
     
 
 ---
@@ -93,4 +93,4 @@
 **Role & tone:** The final crucible. Near-graduates stand on the edge of legend or oblivion.  
 **Core goals:** Mastery and profession specialization. Final challenges intensify; the cohort is noticeably reduced.  
 **Curriculum highlights:** Leadership in summoner command, diplomatic summoning (summoning in courts/war councils), final thesis (a culminating ritual or major public demonstration).  
-**Privileges & outcomes:** Graduation can lead to positions on the **Nightvale Council**, high-level guild offers, or roles in courts across **[[World History/Palonia\|Palonia]]**. A few choose adventuring, others political life. Some use their final year to prepare for rule or to refurbish family houses. Palonia
+**Privileges & outcomes:** Graduation can lead to positions on the **Nightvale Council**, high-level guild offers, or roles in courts across **[[World History/Palonia\|Palonia]]**. A few choose adventuring, others political life. Some use their final year to prepare for rule or to refurbish family houses.

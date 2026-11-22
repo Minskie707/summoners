@@ -16,7 +16,7 @@ Players are expected to make a character of age **16**! This is a school setting
 
 For character species you are relatively free to pick what you would like however the following are **NOT** allowed for multiple reasons, some being redundant, others being something that would break the setting of the campaign behind the scenes, and some that I don't want to deal with honestly:
 
-- any species which requires you to have died to achieve it, no being brought back from the dead
+- any species which requires you to have died to achieve it, no being brought back from the dead (there is a very very specific way in which this would be allowed but that would require you to follow more rules when making your character)
 - any constructs (unless you're a guest character not playing as a summoner)
 - Centaurs
 - Kender
@@ -36,4 +36,4 @@ For information that pertains specifically to building a playable character with
 
 Homebrew mechanics will be a large part of this campaign, so if you have ideas feel free to share them with your DM to see if they may be implemented, but be sure to look at pages on the Index that might pertain to your homebrew creations; and keep in mind that they might be adjusted to fit better world or lore wise.
 
-Summoning does **NOT** replace your characters base class, it should be seen more as multi-classing in tandem rather than a replacement. Your Summoning abilities however will not be locked exclusively to your character level. Your summons will also not be locked exclusively to your character level and in some cases might even level differently to you. Players are going to be expected to keep track of their own summons, they will move on your turn along side you. Summons are their own creatures with their own personalities, ideals, morals, and abilities, while the player will control them in combat they are their own creatures separate from the player character.
+Summoning does **NOT** replace your characters base class, it should be seen more as multi-classing in tandem rather than a replacement. Your Summoning abilities however will not be locked exclusively to your character level. Your summons will also not be locked exclusively to your character level and in some cases might even level differently to you. Players are going to be expected to keep track of their own summons, they will move on your turn along side you. Summons are their own creatures with their own personalities, ideals, morals, and abilities, while the player will control them in combat they are their own creatures separate from the player character and unless explicitly requested will be rp'd by the DM.

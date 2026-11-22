@@ -136,3 +136,12 @@ Each board can be modified through _artificer tinkering_ or _arcane infusion_. U
 - **Stabilizing Runework:** Grants advantage on checks to resist being knocked prone.
     
 - **Ether Veil:** Creates a brief shimmer that grants half cover for 1 round.
+
+
+ Summoning Professions
+
+Outside of the Academy, summoning is a skill used minimally in most common professions. As wars died down and the time of peace came about summoning became more of a hassle than a gift, while it offered companionship, many summons that could be utilized for common professions complicated things more than the commonfolk's way of doing the job. However, although peace had been found across Palonia, conflicts such as Dungeons and Etherlings existed. While positions in royal guards and within the ranks of the Nightvale council & Academy would always exist, the variety was limited. This limit in options bred ground to new professions being made to help summoners find a place in the world. 
+
+Ether Archivists & Historians
+
+Ether, being as dangerous as it is has been left to be researched by Summoners as they hold a unique resistance to the substance.
